@@ -1,0 +1,1105 @@
+product_id,product_name,avg_product_rating,product_price,product_reviews_count,favorites_count,variations_count,product_category
+P453818,GENIUS Collagen Calming Relief,4.464,58.0,125.0,11763,0,Skincare
+P442859,ALIVE Prebiotic Balancing Mask,4.3729,38.0,118.0,14367,0,Skincare
+P388262,GENIUS Ultimate Anti-Aging Eye Cream,3.7759,74.0,116.0,6866,0,Skincare
+P457694,Blue Algae Vitamin C Dark Spot Correcting Peel,4.213,85.0,108.0,11488,0,Skincare
+P447504,AA (Alguronic Acid) Barrier Serum,3.97,85.0,100.0,3877,0,Skincare
+P404169,POWER Advanced Wrinkle Fighter 360° Eye Serum,4.023,70.0,87.0,9082,0,Skincare
+P404168,POWER Advanced Wrinkle Fighter Moisturizer,4.1818,85.0,77.0,5169,0,Skincare
+P433469,ELEVATE Advanced Retinol Serum,4.1026,98.0,39.0,5451,0,Skincare
+P420638,ELEVATE Advanced Lift Contouring Cream,4.3243,96.0,37.0,3317,0,Skincare
+P456990,Mini GENIUS Liquid Collagen,3.4412,25.0,34.0,8900,0,Skincare
+P410809,ELEVATE Firming & Lifting Contouring Eye Cream,3.2581,72.0,31.0,1957,0,Skincare
+P442860,ALIVE Prebiotic Balancing Moisturizer SPF 15,3.2,40.0,30.0,1897,0,Skincare
+P449164,ELEVATE Firming & Lifting Neck Cream,3.8889,84.0,18.0,5118,0,Skincare
+P504443,Plump Pout Duo,3.0,44.0,1.0,522,0,Skincare
+P442540,Vitamin A Serum with 0.5% Retinol,4.3579,65.0,95.0,7074,0,Skincare
+P442539,Vitamin B Serum with 5% Niacinamide and Peptides,4.2619,65.0,84.0,6331,0,Skincare
+P442546,Balancing Cleanser,4.5455,38.0,77.0,3612,0,Skincare
+P442548,Mini Liquid Gold Exfoliating Treatment with Glycolic Acid,4.0,22.0,34.0,11971,0,Skincare
+P442537,Liquid Gold Firming Eye Cream,3.8824,82.0,17.0,3406,0,Skincare
+P480150,Liquid Gold Midnight Reboot Serum with 14% Glycolic Acid and Tripeptide-5,5.0,105.0,16.0,3928,0,Skincare
+P442542,Beauty Sleep Power Peel Age-Defying Night Peel,4.6,106.0,15.0,6057,0,Skincare
+P442545,Triple Action Cleanser,4.25,38.0,12.0,2138,0,Skincare
+P505338,Pore Perfecting Liquid Exfoliator with 2% BHA + Borage,4.9231,39.0,91.0,654,0,Skincare
+P481058,Mini Melt Moisturizer with Bakuchiol and Squalane,4.5806,25.0,31.0,7054,0,Skincare
+P503262,Peel and Plump Skin-Smoothing Duo,4.8889,49.0,18.0,6469,0,Skincare
+P449150,Hydrating Oil,4.5556,45.0,27.0,4568,0,Skincare
+P482510,The Ultimate Soothing Cream,4.65,290.0,100.0,1933,1,Skincare
+P475907,The Serum with  TFC8,3.9877,390.0,81.0,2556,1,Skincare
+P475906,The Eye Cream with  TFC8,4.2267,220.0,75.0,2922,1,Skincare
+P503926,The Face Cream Mask,4.375,215.0,48.0,684,0,Skincare
+P470510,Mini The Rich Cream with TFC8 Face Moisturizer,3.6875,92.0,32.0,10759,0,Skincare
+P470508,Mini The Cream with TFC8 Face Moisturizer,3.7647,92.0,17.0,6863,0,Skincare
+P482661,The Essence,4.5,93.0,4.0,2564,0,Skincare
+P502235,The Daily Essential Duo The Cream,4.0,305.0,3.0,2080,0,Skincare
+P504018,The Skin Renewal System,5.0,185.0,2.0,2331,0,Skincare
+P438643,The Balance pH Balancing Gel Cleanser,4.4713,39.0,87.0,10844,0,Skincare
+P438628,Contouring + De-Puffing Rose Quartz Roller,4.5833,65.0,84.0,18126,0,Skincare
+P438635,The Pout Sparkling Rosé Hyaluronic Acid Collagen Plumping Lip Serum,3.4268,39.0,82.0,15560,0,Skincare
+P481060,The Eyelighter Concentrate,4.6909,58.0,55.0,6812,0,Skincare
+P438648,The Quench Quadralipid Rapid Recovery Facial Moisturizer,3.8462,129.0,39.0,5300,0,Skincare
+P503562,GLOfacial Hydro-Infusion Pore Cleansing + Blue LED Clarifying Tool,4.1212,199.0,33.0,7799,0,Skincare
+P505145,ZenBubble Bi-Phase Toner Serum,4.6667,49.0,24.0,372,0,Skincare
+P467106,Cryo Skin Icing Dual-Ended Roller,4.4762,85.0,21.0,5219,0,Skincare
+P438642,GloPRO Prep Pads Clarifying Skin Cleansing Wipes with Peptides,3.5556,39.0,18.0,4747,0,Skincare
+P443810,The Daily Vitamin C Day Serum with Antioxidant Complex,3.1176,75.0,17.0,2415,0,Skincare
+P438632,GloPRO BODY MicroTip Attachment Head,4.0714,49.0,14.0,14832,0,Skincare
+P463792,Rejuvenating Scalp + Fuller Hair Therapy Set,3.5385,249.0,13.0,5810,0,Skincare
+P443812,R45 The Lift 3-Phase Advanced Neck Contouring Treatment,3.1667,85.0,12.0,2668,0,Skincare
+P463791,GloPRO SCALP MicroTip Attachment Head,4.2727,59.0,11.0,4954,0,Skincare
+P438629,The Radiance Brightening Vitamin E + Rosehip Seed Facial Oil,4.1818,70.0,11.0,4050,0,Skincare
+P438640,The Nightly Retinol + Peptide Anti-Aging Serum,3.7,95.0,10.0,5003,0,Skincare
+P467107,GloPRO Cryo Skin Icing Attachments,4.5,75.0,10.0,1960,0,Skincare
+P438634,GloPRO FACE MicroTip Attachment Head,3.6667,39.0,9.0,7926,0,Skincare
+P438638,GloPRO EYE MicroTip Attachment Head,2.5,39.0,8.0,4925,0,Skincare
+P503552,GLOfacial Clarifying Salicylic & Plumping Hyaluronic Acid Concentrate,5.0,45.0,8.0,1715,0,Skincare
+P438630,Contouring + De-Puffing Rose Quartz GloPRO Attachment Head,4.1429,49.0,7.0,3334,0,Skincare
+P503560,GLOfacial Antimicrobial Treatment Tips + Cleaning Brush Accessories,5.0,30.0,7.0,1011,0,Skincare
+P502237,Head-To-Toe AfterGLO Set,4.3333,199.0,6.0,2634,0,Skincare
+P483141,The Quench Eye Reviving Quadralipid Eye Balm,4.0,99.0,5.0,1607,0,Skincare
+P483089,Eye Want It All Face + Eye Microneedling Set,3.5,249.0,2.0,1349,0,Skincare
+P435801,Aqua Bomb Mist,4.1042,38.0,48.0,12101,0,Skincare
+P504888,Aqua Bomb Protect & Glow Travel Kit,3.5,27.0,2.0,1088,0,Skincare
+P480278,Rapid Radiance Set,4.1324,35.0,136.0,55347,0,Skincare
+P429659,Squalane + Hyaluronic Toning Mist,4.2551,32.0,98.0,28719,0,Skincare
+P484033,Mini Squalane + Vitamin C Rose Firming Oil,4.15,40.0,40.0,22591,0,Skincare
+P480280,Mini Squalane + Omega Repair Deep Hydration Moisturizer,3.2333,20.0,30.0,14541,0,Skincare
+P480279,Radiantly Rose Duo Set,3.7,25.0,10.0,10973,0,Skincare
+P503892,Instant Hydration Set,3.6667,74.0,3.0,3629,0,Skincare
+P446518,Soothing Face Cleanser Oil,4.4063,53.0,32.0,10137,0,Skincare
+P468634,Vitamin Enriched Face Base Jumbo,4.84,99.0,25.0,17355,0,Skincare
+P455332,Hydrating Water Fresh Cream Moisturizer,4.3333,66.0,18.0,3974,0,Skincare
+P270600,Extra Eye Repair Cream Intense,3.3636,86.0,11.0,12571,0,Skincare
+P504452,Mini Must Haves Skincare Set,3.4286,25.0,7.0,4452,0,Skincare
+P395507,Extra Repair Moisture Cream,4.5,110.0,2.0,3331,0,Skincare
+P504288,Get Lit Skin and Mood Boosting Supplement,4.5,48.0,24.0,789,0,Skincare
+P481408,The Canopy Humidifier Starter Set,4.4412,150.0,68.0,7559,5,Skincare
+P500016,Deep Exfoliating Cleanser,4.6923,38.0,13.0,9182,0,Skincare
+P503655,Mini Grape Water Moisturizing Face Mist,4.125,12.0,8.0,9290,0,Skincare
+P504881,Vinoperfect  Brightening Solution Set,5.0,82.0,4.0,5361,0,Skincare
+P504848,Resveratrol-Lift Ultimate Firming Set,4.25,84.0,4.0,3970,0,Skincare
+P504850,Premier Cru Fine Lines and Wrinkles Anti-Aging Set,4.0,139.0,1.0,1926,0,Skincare
+P501587,Deepwater Nourishing Lip Mask with Sea Moss and Aloe Stem Cells,4.5818,22.0,55.0,7510,0,Skincare
+P500399,Isle Glow Body Lotion SPF 45 with Sea Moss and Cocoa Seed Butter,4.617,38.0,47.0,7565,0,Skincare
+P500287,Isle Body Oil SPF 30 with Sea Moss and Squalane,4.6,32.0,10.0,6848,0,Skincare
+P433519,Refillable Magic Night Moisturizer with Retinol,3.5492,145.0,122.0,12841,3,Skincare
+P500753,Daily Glow Toner with Niacinamide,4.381,55.0,84.0,7914,1,Skincare
+P433522,Goddess Clay Mask,4.3115,58.0,61.0,11636,0,Skincare
+P446612,Instant Magic Facial Dry Sheet Mask,3.4906,25.0,53.0,11527,0,Skincare
+P459835,Mini Charlotte’s Magic Serum with Vitamin C,3.175,30.0,40.0,38819,0,Skincare
+P433524,Multi-Miracle Glow Cleansing Balm,4.1429,60.0,35.0,7612,0,Skincare
+P476842,Cryo-Recovery Lifting Face Mask with Acupressure Technology,2.8077,55.0,26.0,15090,0,Skincare
+P440505,Goddess Cleansing Ritual Duo,4.4545,46.0,22.0,7741,0,Skincare
+P500248,Collagen Superfusion Firming & Plumping Facial Oil,4.5833,85.0,12.0,12680,1,Skincare
+P451728,Mini Goddess Clay Mask 15ml Travel Size,3.0833,16.0,12.0,6446,0,Skincare
+P451727,Mini Magic Night 15ml Travel Size,2.875,45.0,8.0,5165,0,Skincare
+P500238,Mini Collagen Superfusion Firming & Plumping Facial Oil,4.7143,30.0,7.0,13165,0,Skincare
+P477812,Refillable Jumbo Magic Cream Moisturizer with Hyaluronic Acid,3.75,260.0,4.0,6696,1,Skincare
+P379064,Lotus Balancing & Hydrating Natural Face Treatment Oil,4.4029,65.0,139.0,8723,0,Skincare
+P392004,Blue Orchid Radiance & Hydrating Natural Face Treatment Oil,4.4184,65.0,98.0,10782,0,Skincare
+P406941,Multi-Active Anti-Aging Day Moisturizer with SPF 20 for Glowing Skin,3.7467,59.0,75.0,5083,0,Skincare
+P406942,Multi-Active Anti-Aging Night Moisturizer for Glowing Skin,4.2537,62.0,67.0,8646,0,Skincare
+P483060,Lip Comfort Hydrating Oil,4.3509,28.0,57.0,35345,7,Skincare
+P392522,Santal Soothing & Hydrating Natural Face Treatment Oil,4.76,65.0,25.0,8559,0,Skincare
+P430338,Extra-Firming & Smoothing Day Moisturizer with SPF 15,4.0417,93.0,24.0,5420,0,Skincare
+P469449,Hydrating Gentle Foaming Cleanser with Aloe Vera,3.3333,30.0,24.0,1562,0,Skincare
+P405589,Multi-Active Anti-Aging Day Cream-Gel Moisturizer for Glowing Skin,3.7727,59.0,22.0,2459,0,Skincare
+P469448,Purifying Gentle Foaming Cleanser with Salicylic Acid,2.5294,30.0,17.0,1195,0,Skincare
+P410657,Extra-Firming & Smoothing Face Mask,4.25,79.0,16.0,4267,0,Skincare
+P446111,V Shaping Facial Lift Depuff & Contour Serum with Hyaluronic Acid,3.5714,90.0,14.0,4239,0,Skincare
+P467755,Hydrating Toner Lotion with Aloe Vera,3.8462,30.0,13.0,3710,0,Skincare
+P429504,Extra-Firming & Smoothing Night Moisturizer,4.25,98.0,8.0,5829,0,Skincare
+P467756,Soothing Toning Lotion with Chamomile,3.375,30.0,8.0,1484,0,Skincare
+P409227,Multi-Active Anti-Aging Day Moisturizer for Glowing Skin,4.8571,58.0,7.0,1652,0,Skincare
+P479946,Self Tanning Face & Body Tinted Gel,5.0,42.0,4.0,1606,0,Skincare
+P467757,Total Cleansing Oil & Makeup Remover,3.25,37.0,4.0,1143,0,Skincare
+P479947,Self Tanning Face & Body Milky Lotion,3.6667,42.0,3.0,732,0,Skincare
+P501566,Super Restorative Anti-Aging Day Moisturizer,4.6667,132.0,3.0,566,0,Skincare
+P475083,Skincare Essentials Kit,3.0,100.0,2.0,2986,0,Skincare
+P501585,Super Restorative Anti-Aging Night Moisturizer,5.0,140.0,2.0,595,0,Skincare
+P302900,Turnaround Revitalizing Serum,4.3261,53.0,138.0,6909,0,Skincare
+P392472,All About Clean Foaming Facial Soap,4.0254,23.5,118.0,5092,0,Skincare
+P407040,Acne Solutions Acne + Line Correcting Serum,4.1304,52.0,115.0,9778,0,Skincare
+P393501,Acne Solutions Cleansing Gel,3.8725,23.5,102.0,7215,0,Skincare
+P463613,Moisture Surge Intense 72H Lipid-Replenishing Hydrator Moisturizer,3.4688,44.0,96.0,6473,2,Skincare
+P374115,Pore Refining Solutions Stay-Matte Hydrator,4.0761,44.0,92.0,7842,0,Skincare
+P455622,Even Better Clinical Radical Dark Spot Corrector + Interrupter Serum,3.5824,85.0,91.0,22013,3,Skincare
+P474940,Mini Even Better Clinical Radical Dark Spot Corrector + Interrupter Serum,3.5824,21.0,91.0,1728,0,Skincare
+P456991,Superdefense City Block Broad Spectrum SPF 50 Daily Energy + Face Protector Primer,3.6932,32.0,88.0,5615,0,Skincare
+P410101,Broad Spectrum SPF 50 Mineral Sunscreen Fluid for Face,3.4405,31.0,84.0,8842,0,Skincare
+P407381,Sun-Kissed Face Gelee Complexion Multitasker Bronzer,4.2857,34.0,63.0,13842,0,Skincare
+P468818,Mini Moisture Surge 100H Auto-Replenishing Hydrator Moisturizer,4.2182,16.0,55.0,8723,0,Skincare
+P448563,Clinique Smart Clinical MD Multi-Dimensional Age Transformer Revolumize,3.3265,74.0,49.0,1423,0,Skincare
+P409920,Clarifying Lotion 1.0 Twice A Day Exfoliator,3.6429,32.0,42.0,3470,0,Skincare
+P309409,Repairwear Uplifting Firming Cream,3.7143,74.0,42.0,2408,0,Skincare
+P417323,Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C,4.3684,39.0,38.0,5608,0,Skincare
+P405286,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Dry Combination Skin,4.3143,64.0,35.0,3174,0,Skincare
+P439648,Clinique iD:  Moisturizer + Concentrate for Pores & Uneven Texture,3.1538,41.0,26.0,904,0,Skincare
+P469451,All About Clean 2-in-1 Cleansing + Exfoliating Jelly,4.5652,26.5,23.0,4781,0,Skincare
+P471011,Take The Day Off Cleansing Balm Makeup Remover Duo,4.7778,48.0,18.0,7837,0,Skincare
+P456992,Superdefense SPF 25 Fatigue + 1st Signs of Age Multi-Correcting Cream,3.8824,56.0,17.0,3096,0,Skincare
+P500771,Smart Clinical Repair Wrinkle Correcting Rich Cream,4.4118,68.0,17.0,574,0,Skincare
+P448564,Clinique Smart Clinical MD Multi-Dimensional Age Transformer Resculpt,3.6875,74.0,16.0,1410,0,Skincare
+P376946,Repairwear Uplifting Firming Cream Broad Spectrum SPF 15,3.4,72.0,15.0,1195,0,Skincare
+P390987,Purifying Cleansing Brush Head Refill,4.5385,32.0,13.0,3095,0,Skincare
+P448565,Clinique Smart Clinical MD Multi-Dimensional Age Transformer Duo Resculpt + Revolumize,3.0,74.0,11.0,1968,0,Skincare
+P474942,Refresh in 5,4.6667,25.0,9.0,12369,0,Skincare
+P467608,Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol Serum,4.75,74.0,8.0,2689,0,Skincare
+P469452,All About Clean 2-in-1 Charcoal Face Mask + Scrub,3.75,33.0,8.0,1746,0,Skincare
+P405825,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin,4.125,61.0,8.0,1535,0,Skincare
+P439099,Clarifying Lotion 2,4.4286,36.0,7.0,545,0,Skincare
+P405285,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Very Dry to Dry Skin,4.5,64.0,6.0,1428,0,Skincare
+P439098,Clarifying Lotion 3,4.1667,36.0,6.0,577,0,Skincare
+P480289,Mini Acne Solutions Cleansing Foam,4.0,11.0,5.0,1874,0,Skincare
+P481668,Clarifying Do-Over Peel,3.0,35.0,5.0,1064,0,Skincare
+P481062,"Clean Skin, Fresh Start Acne Solutions Kit",3.0,24.5,4.0,2441,0,Skincare
+P406656,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,3.6667,53.0,3.0,690,0,Skincare
+P474941,3 Step Intro Kit Type II,2.0,21.0,2.0,865,0,Skincare
+P500113,Detoxifying AHA/BHA Gel Cleanser,4.0504,16.0,119.0,1205,0,Skincare
+P500109,Hydrating Caffeine Eye Cream,4.1379,18.0,116.0,3298,0,Skincare
+P500096,Oil Control Moisturizer with Niacinamide,3.75,25.0,20.0,1550,0,Skincare
+P500106,Everyday Mineral Moisturizer SPF 30 Sunscreen,4.0,30.0,13.0,1733,0,Skincare
+P500120,Nourishing Rich Moisturizer with Hyaluronic Acid,3.5,25.0,10.0,867,0,Skincare
+P500116,Hydrating Cream Cleanser with Hyaluronic Acid,4.75,16.0,8.0,1413,0,Skincare
+P455618,Full Spectrum 360° Refreshing Water Mist Organic Face Sunscreen SPF 18,4.3636,36.0,99.0,11030,0,Skincare
+P395723,Classic Body Organic Sunscreen Spray SPF 50 Fragrance-Free,4.3636,28.0,77.0,12498,0,Skincare
+P455341,Classic Body Organic Sunscreen Spray SPF 70 Peach Blossom,4.2692,28.0,52.0,8003,0,Skincare
+P452002,Classic Face Sunscreen SPF 50 White Tea,3.9149,32.0,47.0,6396,0,Skincare
+P441645,Sunless Tan Firming Lotion,4.25,46.0,40.0,8889,0,Skincare
+P442267,Sunless Tan Express Sculpting Mousse,4.0,48.0,27.0,3650,0,Skincare
+P429508,Sunless Tan Dry Body Oil Mist,4.3478,46.0,23.0,2101,0,Skincare
+P483057,COOLA Organic Liplux Classic Sunscreen Lip Oil SPF 30,2.4211,18.0,19.0,6293,0,Skincare
+P482259,Dew Good Illuminating Serum SPF 30,4.5556,48.0,9.0,5254,0,Skincare
+P483078,COOLA Scalp & Hair Mist Organic Sunscreen SPF 30,3.2857,28.0,7.0,4752,0,Skincare
+P482258,Mineral Face Sunscreen Sheer Matte SPF 30,3.5,36.0,6.0,1237,0,Skincare
+P482256,Classic Face Organic Sunscreen Lotion SPF 30,3.6667,32.0,6.0,826,0,Skincare
+P500880,Classic Face Organic Sunscreen Lotion SPF 50,5.0,32.0,4.0,2772,0,Skincare
+P504987,Refreshing Water Sunscreen Stick SPF 50,5.0,30.0,2.0,2419,0,Skincare
+P504988,Snow Mushroom Pore Cleanser with Exfoliating Glove,4.7037,47.0,108.0,606,0,Skincare
+P472024,Skin Mud Pure Vitamin C Brightening Mask,4.7419,48.0,62.0,2472,0,Skincare
+P472022,Paradisi Hydrating Essence Mist,4.5,48.0,40.0,1300,0,Skincare
+P481342,Cleansing & Hydrating Bestseller Set Bento Box,5.0,42.0,2.0,2206,0,Skincare
+P469454,Beauty Oil with Gold Leaf,4.6269,30.0,67.0,10153,0,Skincare
+P473268,MINI Precision Peach Fuzz Removal Device,4.0769,69.0,26.0,8046,0,Skincare
+P430809,THE ESSENTIALS Sonic Dermaplaning Refill Kit,4.3125,87.0,16.0,8018,1,Skincare
+P446638,Power Cleanse Duo,4.5752,19.0,113.0,23348,0,Skincare
+P423143,Stress Positive Eye Lift Mask,4.1667,74.0,36.0,8944,0,Skincare
+P503820,Daily Brightness Boosters Kit,4.8333,49.5,30.0,1723,0,Skincare
+P423690,Skin Resurfacing Lactic Acid Cleanser,4.1071,48.0,28.0,6435,0,Skincare
+P456569,Active Clay Prebiotic Cleanser,4.6087,42.0,23.0,6366,0,Skincare
+P423145,Age Reversal Eye Complex,3.7273,79.0,22.0,4351,0,Skincare
+P467112,Daily Microfoliant Exfoliator Refill Pack,4.8824,56.0,17.0,8312,0,Skincare
+P445822,Intensive Moisture Cleanser,4.0,42.0,11.0,2582,0,Skincare
+P455915,Mini MultiVitamin Power Recovery Mask,5.0,16.5,2.0,0,0,Skincare
+P427729,Capture Youth Age-Delay Advanced Crème,3.9219,110.0,64.0,7745,0,Skincare
+P423264,One Essential Skin Boosting Super Serum,4.3889,110.0,54.0,8855,2,Skincare
+P375354,Capture Totale Intensive Night Restorative Crème,4.4545,175.0,44.0,4799,0,Skincare
+P416728,Dreamskin Skin Perfector Refill,4.5714,102.0,35.0,9535,0,Skincare
+P417604,Hydra Life Deep Hydration Sorbet Water Essence,4.3438,80.0,32.0,5499,0,Skincare
+P429676,Hydra Life Cooling Hydration Sorbet Eye Gel,3.3226,60.0,31.0,6630,0,Skincare
+P480600,Rouge Dior Lip Balm,3.4,45.0,30.0,15332,9,Skincare
+P440923,Capture Youth Age-Delay Advanced Eye Treatment,3.4667,75.0,30.0,4285,0,Skincare
+P408542,One Essential Eye Serum,4.3333,72.0,27.0,5908,0,Skincare
+P454807,Capture Totale Firming & Wrinkle-Correcting Eye Cream,4.3889,80.0,18.0,6539,0,Skincare
+P427731,Capture Youth Glow Booster Age-Delay Illuminating Serum,4.6667,110.0,15.0,0,0,Skincare
+P429675,Hydra Life Balancing Hydration 2 in 1 Sorbet Water,3.7692,45.0,13.0,2966,0,Skincare
+P427732,Capture Youth Plump Filler Age-Delay Plumping Serum,4.0,110.0,13.0,0,0,Skincare
+P476432,Capture Totale Super Potent Cleanser,4.4545,65.0,11.0,2344,0,Skincare
+P444987,Capture Youth Age-Delay Progressive Peeling Crème,4.4286,110.0,7.0,2275,0,Skincare
+P481970,Hydra Life Fresh Sorbet Crème Moisturizer,3.5,85.0,6.0,1208,0,Skincare
+P440922,Capture Youth Intense Rescue Age-Delay Revitalizing Oil-Serum,3.4,110.0,5.0,0,0,Skincare
+P481971,Hydra Life Intense Sorbet Crème Moisturizer,5.0,85.0,3.0,2201,0,Skincare
+P481077,Capture Totale Intensive Essence Lotion,4.0,80.0,3.0,2108,0,Skincare
+P504053,Capture Dreamskin 1-Minute Mask,5.0,80.0,2.0,993,0,Skincare
+P505332,Dior Skin Mattifying Papers,5.0,35.0,1.0,1294,0,Skincare
+P447783,Cleanser,4.2,75.0,70.0,6271,0,Skincare
+P447789,Sun Drops SPF 50,2.7164,150.0,67.0,3538,0,Skincare
+P448554,Enzyme Cleanser,3.8276,75.0,58.0,7182,0,Skincare
+P448711,Face Mask,4.5185,125.0,54.0,5780,0,Skincare
+P447790,Anti-Pollution Drops,3.6327,150.0,49.0,3528,0,Skincare
+P456997,Night Serum,4.7021,310.0,47.0,4921,0,Skincare
+P447787,Super Anti-Aging Serum,3.3684,370.0,38.0,4523,1,Skincare
+P454937,Mini Super Anti-Aging Serum,3.3684,130.0,38.0,3397,0,Skincare
+P481973,The Better B Niacinamide Serum,4.8667,145.0,30.0,2538,0,Skincare
+P448715,Balancing Toner,4.4828,75.0,29.0,4371,0,Skincare
+P469200,The Good C Vitamin C Serum,3.5,145.0,24.0,3108,0,Skincare
+P448553,Face Cream Rich,4.3182,240.0,22.0,3298,0,Skincare
+P448558,Clarifying Face Cream,3.3182,225.0,22.0,2288,0,Skincare
+P447788,Calming Serum,3.7778,255.0,18.0,2487,0,Skincare
+P448557,Clarifying Serum,4.125,255.0,16.0,2524,0,Skincare
+P448542,Clarifying Mask,4.125,150.0,16.0,2446,0,Skincare
+P449601,Face Cream Light,3.9333,215.0,15.0,1420,0,Skincare
+P454375,Clarifying Acne Spot Treatment,3.5,55.0,14.0,1720,0,Skincare
+P448548,Darker Skin Tones Hyaluronic Serum,4.3636,300.0,11.0,2233,0,Skincare
+P448545,Darker Skin Tones Foam Cleanser,3.7,75.0,10.0,1146,0,Skincare
+P475926,The SturmGlow Kit,3.1111,185.0,9.0,3701,0,Skincare
+P448546,Darker Skin Tones Enzyme Cleanser,4.7778,75.0,9.0,3148,0,Skincare
+P448549,Brightening Serum,3.5556,310.0,9.0,1709,0,Skincare
+P448544,Darker Skin Tones Face Cream,5.0,225.0,9.0,1685,0,Skincare
+P474036,Aloe Vera Gel,3.3333,75.0,9.0,1128,0,Skincare
+P471017,Super Anti-Aging Face Cream,3.2222,360.0,9.0,928,0,Skincare
+P448713,Clarifying Spot Treatment,4.125,55.0,8.0,2729,1,Skincare
+P448551,Brightening Face Lotion,4.4286,205.0,7.0,1490,0,Skincare
+P477150,Super Anti-Aging Eye Cream,4.3333,210.0,6.0,1735,0,Skincare
+P448550,Brightening Face Cream,5.0,240.0,5.0,2000,0,Skincare
+P448547,Darker Skin Tones Face Cream Rich,4.6667,240.0,3.0,873,0,Skincare
+P460758,Cool Biotic Prebiotic Redness Relief Cream,4.1468,56.0,109.0,8201,0,Skincare
+P417625,24/7 Retinol Eye Cream,3.9159,58.0,107.0,8505,0,Skincare
+P444225,Clean Biotic pH-balanced yogurt cleanser with chlorophyll,4.2212,36.0,104.0,4790,0,Skincare
+P429661,pores no more Mattifying Hydrator Pore Minimizing Gel,4.2039,50.0,103.0,6925,0,Skincare
+P383052,Do Not Age with Dr. Brandt Moisturizing Neck Cream,3.7745,67.0,102.0,6096,0,Skincare
+P383051,Do Not Age with Dr. Brandt Time Defying Cream,4.0114,132.0,88.0,2722,0,Skincare
+P453822,Dark Spots No More Triple Acid Spot Minimizing Concentrate,3.9634,71.0,82.0,9838,0,Skincare
+P448710,pores no more Pore Purifying Cleanser,4.2537,38.0,67.0,5136,0,Skincare
+P502640,Microdermabrasion Renewing Age-Defying Face Exfoliator,4.8621,79.0,58.0,2309,1,Skincare
+P383054,Do Not Age with Dr. Brandt Transforming Pearl Serum,4.1852,152.0,54.0,3259,0,Skincare
+P442001,Hyaluronic Facial Cream,3.814,72.0,43.0,3056,0,Skincare
+P442263,needles no more 3-D LIP PLUMPFIX,2.8947,39.0,38.0,5114,0,Skincare
+P440302,needles no more Neck Sculpting Cream,3.7742,95.0,31.0,6052,0,Skincare
+P476570,Triple Active Retinol Gentle Overnight Renewal Cream,3.7273,75.0,11.0,1466,0,Skincare
+P435790,Radiance Revitalizing Foam,5.0,65.0,4.0,597,0,Skincare
+P504411,Microdermabrasion Smoothing Lip Scrub,4.0,30.0,2.0,1030,0,Skincare
+P500151,Drop of Strength All Day Strengthening Serum,4.5,85.0,2.0,665,0,Skincare
+P460622,25 Years of Dr. Brandt Kit,1.0,165.0,1.0,274,0,Skincare
+P385773,Hyaluronic Marine Hydration Booster,4.2555,72.0,137.0,13677,0,Skincare
+P413613,Pro Facial Steamer,4.1493,159.0,134.0,40031,0,Skincare
+P503927,Vitamin C Lactic Biocellulose Brightening Treatment Mask,4.5897,12.0,117.0,6445,1,Skincare
+P501166,Vitamin C Lactic Oil-Free Radiant Moisturizer,4.6577,72.0,111.0,6654,0,Skincare
+P481341,Alpha Beta Daily Moisturizer,4.561,72.0,82.0,4205,0,Skincare
+P411360,Hyaluronic Marine Hydrating Modeling Mask,4.0921,52.0,76.0,9464,0,Skincare
+P481975,Alpha Beta Daily Essentials - Universal,4.6296,92.0,27.0,3622,0,Skincare
+P481339,Alpha Beta Daily Essentials - Extra Strength,4.4615,92.0,26.0,7215,0,Skincare
+P466878,Mini Alpha Beta Exfoliating Body Treatment Peel,2.8824,18.0,17.0,6308,0,Skincare
+P481376,Mini Alpha Beta AHA/BHA Daily Cleansing Gel,3.7143,15.0,14.0,7057,0,Skincare
+P474943,Mini Alpha Beta Ultra Gentle Daily Peel Pads for Sensitive Skin,3.6364,20.0,11.0,7204,0,Skincare
+P503912,Firm + Bright + Glow Vitamin C Lactic Set,3.4286,85.0,7.0,4442,0,Skincare
+P503906,DRx SpectraLite LED EyeCare Max Pro,5.0,199.0,5.0,191,0,Skincare
+P471545,DRx SpectraLite BodyWare Pro,4.25,465.0,4.0,6836,0,Skincare
+P397622,Dermask Water Jet Soothing Hydra Solution,4.0538,7.0,130.0,22325,0,Skincare
+P442854,Focuspot Dark Spot Micro Tip Patch,3.6311,20.0,122.0,0,0,Skincare
+P501031,Pore Remedy 5% Multi-Acid Radiance Peel,4.5741,40.0,108.0,5678,0,Skincare
+P442853,Focuspot Blemish Micro Tip Patch,3.9684,20.0,95.0,0,0,Skincare
+P397625,Dermask Micro Jet Brightening Solution,4.0571,9.0,70.0,16054,0,Skincare
+P433884,Dermask Ultra Jet Peeling Solution,4.2462,9.0,65.0,9689,0,Skincare
+P397626,Dermask Intra Jet Wrinkless Solution,3.619,9.0,63.0,12850,0,Skincare
+P397627,Dermask Intra Jet Firming Solution,3.3061,9.0,49.0,9087,0,Skincare
+P481699,Cicapair Tiger Grass Calming Serum Mask,4.36,9.0,25.0,12733,0,Skincare
+P457011,Cryo Rubber Mask with Firming Collagen,4.8462,15.0,13.0,0,0,Skincare
+P457012,Cryo Rubber Mask with Brightening Vitamin C,3.8333,15.0,12.0,0,0,Skincare
+P457010,Cryo Rubber Mask with Soothing Allantoin,4.5556,15.0,9.0,0,0,Skincare
+P457009,Cryo Rubber Mask with Moisturizing Hyaluronic Acid,4.0,15.0,6.0,0,0,Skincare
+P469121,Microdermabrasion Scrub,4.2,65.0,10.0,1136,0,Skincare
+P480441,Retinol + Bakuchiol Serum 2.5x,3.0,300.0,1.0,581,0,Skincare
+P483128,Scar Gel Treatment,4.3285,48.0,137.0,4241,0,Skincare
+P464242,Hyaluronic Acid + Peptide Serum,4.5082,72.0,122.0,2472,0,Skincare
+P464244,Vitamin C Brightening Toner,4.5981,38.0,107.0,3840,0,Skincare
+P464240,10% Glycolic Acne Control Peel Pads,4.4095,42.0,105.0,3425,0,Skincare
+P464237,Retinol Recovery Eye Cream,3.8812,64.0,101.0,1366,0,Skincare
+P440658,Baby Bar Travel Duo with Case,4.3955,22.0,134.0,22114,0,Skincare
+P471761,Call It A Night Glycolic Serum + Moisturizer duo,4.3874,28.0,111.0,37629,0,Skincare
+P450947,Mini A-Passioni Retinol Cream,4.0,28.0,84.0,31898,0,Skincare
+P471547,Mini Beste No. 9 Jelly Cleanser,4.1429,16.0,35.0,16632,0,Skincare
+P503294,Day Dream Vitamin C + Hydration Serum Duo 2.0,2.5,26.0,22.0,39446,0,Skincare
+P501591,The Littles Skincare Travel Set,4.4444,74.0,9.0,12819,0,Skincare
+P500983,"Anytime, Anyface Lactic Acid Serum + Protini Moisturizer Duo",5.0,28.0,7.0,12280,0,Skincare
+P505120,Early Bird Hydrate + Brighten Set,5.0,54.0,1.0,782,0,Skincare
+P501421,Dew Dream- Hydrating Makeup Removing Cleansing Balm with Tiger Grass,4.6881,30.0,109.0,4482,0,Skincare
+P478260,Break from the Burnout Skin Wellness Set,5.0,75.0,1.0,673,0,Skincare
+P478270,Big Break Soap Set,5.0,50.0,1.0,655,0,Skincare
+P380027,Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask,4.4397,30.0,116.0,8588,0,Skincare
+P379995,Perfectionist CP+R Wrinkle Lifting/Firming Serum,4.2234,120.0,94.0,14820,0,Skincare
+P406529,Advanced Night Micro Cleansing Balm,4.6393,48.0,61.0,5931,0,Skincare
+P422648,DayWear Matte Oil-Control Anti-Oxidant Moisturizer Gel Creme,4.4808,59.0,52.0,8588,0,Skincare
+P399934,NightWear Plus Anti-Oxidant Night Detox Moisturizer Creme,4.2391,63.0,46.0,7948,0,Skincare
+P392892,Nutritious Super-Pomegranate Radiant Energy Moisturizer Creme,3.878,70.0,41.0,6546,0,Skincare
+P446908,Advanced Night Repair Treatment Intense Reset Concentrate,4.4595,92.0,37.0,11042,0,Skincare
+P380030,Perfectly Clean Multi-Action Toning Lotion/Refiner,4.2143,30.0,28.0,5546,0,Skincare
+P422649,Resilience Multi-Effect Night Tri-Peptide Face and Neck Moisturizer Creme,4.1852,110.0,27.0,4621,0,Skincare
+P408273,Advanced Night Micro Cleansing Foam,3.9231,33.0,26.0,2742,0,Skincare
+P405032,Micro Essence Infusion Mask,4.25,75.0,24.0,6293,0,Skincare
+P454939,Perfectionist Pro Rapid Brightening Serum with Ferment² + Vitamin C,4.1304,86.0,23.0,6458,0,Skincare
+P380001,"DayWear Advanced Multi-Protection Anti-Oxidant Creme, Dry",4.2174,59.0,23.0,2348,0,Skincare
+P392891,Nutritious Super-Pomegranate Radiant Energy Night Moisturizer Creme/Mask,4.6,74.0,20.0,7994,0,Skincare
+P417359,Advanced Night Repair Concentrated Eye Treatment Mask,4.2143,42.0,14.0,13898,0,Skincare
+P427513,Perfectionist Pro Rapid Firm + Lift Treatment,4.0,86.0,13.0,4615,0,Skincare
+P446102,"Mini DayWear Advanced Multi-Protection Anti-Oxidant Creme, Normal/Combination",4.4545,36.0,11.0,2904,0,Skincare
+P427640,DayWear Eye Cooling Anti-Oxidant Moisture GelCreme,4.2727,46.0,11.0,2157,0,Skincare
+P481081,Revitalizing Supreme+ Night Intensive Restorative Crème,3.75,102.0,4.0,1255,0,Skincare
+P481082,Revitalizing Supreme+ Youth Power Eye Balm,3.5,76.0,4.0,1136,0,Skincare
+P501153,Major Eye Impact Repair + Brighten Skincare Set,4.0,72.0,1.0,1854,0,Skincare
+P481397,Revitalizing Supreme+ Bright Soft Creme Moisturizer,5.0,98.0,1.0,1140,0,Skincare
+P505174,Soft Clean Moisture Rich Foaming Cleanser,5.0,26.0,1.0,435,0,Skincare
+P2046,Brumisateur Natural Mineral Water Facial Spray Travel Trio,4.6813,23.5,91.0,10378,0,Skincare
+P476683,Full Face Sculpt Kit - 14-Day Challenge,4.4733,75.0,131.0,5438,0,Skincare
+P482675,Active Blast Concentrated Collagen Daily Treatment,4.6832,65.0,101.0,1695,1,Skincare
+P476679,Multi-Sculpt High-Performance Gua Sha,4.8795,65.0,83.0,5082,0,Skincare
+P481086,Liftwear Brightening Vitamin C Gel-Cream,4.6753,60.0,77.0,936,0,Skincare
+P476678,Face Coach Lifting Squalane Face Oil,4.6053,70.0,76.0,2438,0,Skincare
+P476674,Electro-Lite Enzyme Brightening Gel Cleanser,4.7887,38.0,71.0,2393,0,Skincare
+P476675,Hydro-Bound Hyaluronic Acid + Niacinamide Serum,4.6377,68.0,69.0,2833,0,Skincare
+P500705,Skin Changer Succinic Acid Essence-Toner,4.7681,48.0,69.0,2193,0,Skincare
+P501017,Brightening Active Roller with Vitamin C,4.7612,70.0,67.0,961,1,Skincare
+P476676,Youth Reformer Firming Vitamin C Oil Serum,4.9623,110.0,53.0,3104,0,Skincare
+P476680,Face Ball Tension Release Tool,4.5208,35.0,48.0,2856,0,Skincare
+P501004,Youthful Active Roller with Niacinamide,4.6316,70.0,38.0,1119,1,Skincare
+P480300,Faceshot Electric Microneedling Device + Vitamin Ampoules,4.5405,275.0,37.0,5049,1,Skincare
+P476681,Hyaluronic Acid Roller Dissolving Microneedling Tool,4.6757,95.0,37.0,4697,0,Skincare
+P501024,Hydrating Active Roller with Hyaluronic Acid,4.3,70.0,30.0,407,1,Skincare
+P476677,Supreme Restructure Collagen-Boosting Cermide Cream,4.44,120.0,25.0,1609,1,Skincare
+P475540,Honey Halo Moisturizer Jumbo,4.7273,74.0,99.0,28597,0,Skincare
+P480165,Healthy Skin Starter Kit,4.7653,42.0,98.0,20010,0,Skincare
+P480444,Honey Potion Plus Ceramide Hydration Mask,4.0,60.0,70.0,32523,1,Skincare
+P503997,"Cleanse + Treat Duo Nighttime Routine for Clean, Smooth Skin",4.7778,46.0,9.0,4870,0,Skincare
+P469087,Flash Nap Instant Revival Priming Eye Gel-Cream With Green Tea + Persian Silk Tree,3.5143,36.0,70.0,26880,1,Skincare
+P476485,Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide Refill,4.4865,35.0,37.0,14985,0,Skincare
+P472311,Mini Total Cleans'r Makeup Removing Cleanser,3.7727,15.0,22.0,9677,0,Skincare
+P480166,Mini Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide,3.7857,25.0,14.0,11380,0,Skincare
+P504880,Melt Awf Jelly Oil Makeup-Melting Cleanser,4.0909,34.0,11.0,8214,0,Skincare
+P476496,Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide Refill,5.0,40.0,8.0,8257,0,Skincare
+P501886,The Glow Around 4-Piece Travel Skincare Essentials Set,5.0,59.0,1.0,7523,0,Skincare
+P500746,Hydrating Serum with Hyaluronic Acid,4.5727,40.0,110.0,8865,0,Skincare
+P503809,Bounce-Boosting Serum with Collagen + Peptides,4.7273,44.0,88.0,7214,0,Skincare
+P399656,Fab Faves To Go Kit,4.5854,30.0,82.0,10231,0,Skincare
+P461161,FAB Pharma BHA Acne Spot Treatment Gel 2% Salicylic Acid,4.2857,26.0,77.0,13002,0,Skincare
+P480603,2-in-1 Cleansing Oil + Makeup Remover,3.6081,26.0,74.0,9294,0,Skincare
+P479840,Hydrating Eye Cream with Hyaluronic Acid,3.8429,30.0,70.0,17841,0,Skincare
+P461162,FAB Pharma White Clay Acne Treatment Pads 2% Salicylic Acid,4.5692,30.0,65.0,13624,0,Skincare
+P472031,FAB Pharma Calamine Pore Purging Mask,4.5366,30.0,41.0,14414,0,Skincare
+P468354,Hydrating Ultra Repair Cream Duo,4.6154,46.0,13.0,5918,0,Skincare
+P480604,FAB Faves Trio,4.0,30.0,4.0,3738,0,Skincare
+P480445,Smooth + FAB Travel Size Duo,5.0,20.0,1.0,6327,0,Skincare
+P504882,Bye Bye Bumps - Best of Body Kit,5.0,30.0,1.0,921,0,Skincare
+P476860,APHRODISIA Intimate Arousal Cannabis Oil,4.4737,77.0,19.0,4350,0,Skincare
+P500998,Soothe + Hydrate Barrier Building Hydrosol Mist,5.0,44.0,3.0,986,0,Skincare
+P461936,BEAR mini Facial Toning Device,4.1228,219.0,114.0,7401,1,Skincare
+P454821,LUNA Mini 3,3.8785,179.0,107.0,16929,4,Skincare
+P405827,IRIS Illuminating Eye Massager,3.5,149.0,60.0,10363,0,Skincare
+P502848,LUNA 4 go Facial Cleansing & Massaging Device,4.8113,129.0,53.0,2761,2,Skincare
+P468652,UFO 2,4.3947,299.0,38.0,12668,2,Skincare
+P433466,Call It A Night Activated Mask,4.5909,10.99,22.0,13055,0,Skincare
+P474830,LUNA play plus 2,3.55,69.0,20.0,4264,1,Skincare
+P436346,Youth Junkie Activated Mask,4.6316,21.99,19.0,9611,0,Skincare
+P433465,Make My Day Activated Mask,4.1667,10.99,18.0,9889,0,Skincare
+P502818,LUNA 4 Facial Cleansing & Firming Massage for Balanced Skin,5.0,279.0,16.0,918,0,Skincare
+P502827,LUNA 4 Facial Cleansing & Firming Massage for Sensitive Skin,4.8,279.0,15.0,1769,0,Skincare
+P461937,Serum Serum Serum,1.8462,59.0,13.0,1850,0,Skincare
+P502831,LUNA 4 Facial Cleansing & Firming Massage for Combination Skin,4.9231,279.0,13.0,1536,0,Skincare
+P436343,H2Overdose Activated Mask,3.8182,20.0,11.0,4878,0,Skincare
+P436347,Glow Addict Activated Mask,4.5,21.99,10.0,8426,0,Skincare
+P450211,Mini Vitamin Nectar Glow Juice Antioxidant Face Serum,3.9926,28.0,136.0,38157,0,Skincare
+P403748,Black Tea Corset Firming Serum,3.901,75.0,101.0,15355,0,Skincare
+P454395,Mini Lotus Youth Preserve Moisturizer,3.7733,21.0,75.0,16661,0,Skincare
+P450210,Vitamin Nectar Glow Juice Antioxidant Face Serum,3.9714,28.0,70.0,3789,0,Skincare
+P439626,Black Tea Firming Eye Serum,3.7619,72.0,63.0,14953,0,Skincare
+P472466,Mini Rose & Hyaluronic Acid Deep Hydration Moisturizer,3.9808,18.0,52.0,22152,0,Skincare
+P432256,Mini Black Tea Instant Perfecting Mask,4.3571,40.0,28.0,9725,0,Skincare
+P500012,Rose Hydration Pore-Minimizing Mist,4.4706,24.0,17.0,14153,0,Skincare
+P429538,Lotus Youth Preseve Rescue Mask Mini,4.2667,28.0,15.0,0,0,Skincare
+P435387,Mini Rose Floral Toner,3.7,15.0,10.0,0,0,Skincare
+P504272,Hydrating Skincare Gift Set,3.2857,59.0,7.0,6842,0,Skincare
+P503226,Sugar Triple-Action Lip Serum Advanced Therapy,3.8571,36.0,7.0,3996,0,Skincare
+P504273,Treat & Tint Mini Lip Care Gift Set,4.0,35.0,5.0,8577,0,Skincare
+P481704,Umbrian Clay Pore Purifying Face Mask,4.5,58.0,4.0,6419,1,Skincare
+P432255,Mini Black Tea Firming Overnight Mask,4.0,40.0,3.0,0,0,Skincare
+P504289,Prep & Treat Lip Care Gift Set,3.5,28.0,2.0,4428,0,Skincare
+P503915,Mini Floral Recovery Overnight Mask with Squalane,5.0,28.0,1.0,3539,0,Skincare
+P505233,Honey Infused Lip Oil,4.9474,32.0,19.0,547,0,Skincare
+P395389,GLO Brilliant Teeth Whitening GLO Vials 10 Pack plus Lip Care,4.4211,65.0,133.0,16148,0,Skincare
+P399755,GLO Lit Teeth Whitening Vials 7 Pack + Lip Care,4.3917,49.0,120.0,17417,0,Skincare
+P472467,GLO to Go Teeth Whitening Pen,4.4889,25.0,90.0,8059,0,Skincare
+P504523,Futuredew Facial Oil-Serum Hybrid,3.9651,26.0,86.0,17832,0,Skincare
+P504524,Milky Jelly Gentle Gel Face Cleanser,4.0877,19.0,57.0,10558,0,Skincare
+P504794,After Baume Moisture Barrier Recovery Cream,4.1429,28.0,42.0,9402,0,Skincare
+P504786,Solution Skin-Perfecting Daily Chemical Exfoliator,3.7143,26.0,21.0,3786,0,Skincare
+P504773,Priming Moisturizer Rich Face Cream with Ceramides,4.05,35.0,20.0,5907,0,Skincare
+P504774,Super Pure Clarifying Face Serum with Niacinamide + Zinc,4.5882,29.0,17.0,10568,0,Skincare
+P504795,Super Bounce Hyaluronic Acid + Vitamin B5 Hydrating Face Serum,4.7333,29.0,15.0,13371,0,Skincare
+P504919,Milky Oil Dual-Phase Waterproof Makeup Remover,4.2667,14.0,15.0,8821,0,Skincare
+P504784,Priming Moisturizer Lightweight Buildable Face Cream,4.2143,24.0,14.0,7249,0,Skincare
+P504778,Invisible Shield Water-Gel Transparent Sunscreen SPF 35,4.1818,25.0,11.0,7420,0,Skincare
+P504780,Super Glow Vitamin C Brightening Face Serum,2.7778,29.0,9.0,8275,0,Skincare
+P504810,Priming Moisturizer Balance Oil-Control Gel-Cream,4.6667,25.0,9.0,5826,0,Skincare
+P504815,Universal Pro-Retinol Overnight Renewing Treatment,3.7778,35.0,9.0,3669,0,Skincare
+P504790,Cleanser Concentrate AHA Clarifying and Exfoliating Face Wash,3.625,21.0,8.0,5305,0,Skincare
+P504325,Glowy Skin Prep Besties Set,4.875,52.0,112.0,26624,0,Skincare
+P504849,Plumping Power Duo,4.8454,54.0,97.0,12092,0,Skincare
+P504636,Mini Watermelon Glow Niacinamide Dew Drops,4.0,20.0,13.0,18565,0,Skincare
+P458964,G.Tox Ultimate Dry Brush,3.9815,25.0,54.0,16978,0,Skincare
+P468143,GOOPGENES All-In-One Super Nutrient Face Oil,3.5676,98.0,37.0,3159,0,Skincare
+P456210,GOOPGLOW 20% Vitamin C and Hyaluronic Glow Serum,3.5357,125.0,28.0,2613,0,Skincare
+P478274,GOOPGENES Clean Nourishing Lip Balm Trio,3.5556,48.0,27.0,3354,1,Skincare
+P505408,GOOPGLOW Vita-C Brightening Eye Cream,4.2308,58.0,26.0,10,0,Skincare
+P464250,GOOPGENES Nourishing Repair Body Butter,3.8261,65.0,23.0,1403,0,Skincare
+P455010,Knock Me Out Sleep Chews,3.2381,30.0,21.0,2036,0,Skincare
+P458961,G.Tox Malachite and Fruit Acid Pore Purifying Cleanser,4.3889,48.0,18.0,2395,0,Skincare
+P458962,G.Tox Malachite and AHA Pore Refining Tonic,3.9333,75.0,15.0,2373,0,Skincare
+P483058,GOOPGLOW Flower Acids Resurfacing Toner,4.6667,45.0,6.0,1797,0,Skincare
+P458963,G.Tox Detoxifying Superpowder,1.8,12.0,5.0,894,0,Skincare
+P474323,GOOPGENES All-in-One Nourishing Skincare Kit,4.5,85.0,2.0,1575,0,Skincare
+P408678,Midnight Secret Late Night Recovery Treatment Anti-Fatigue Serum,4.102,32.0,49.0,26130,0,Skincare
+P469806,Abeille Royale Anti-Aging Eye Lifting Serum,3.7333,130.0,15.0,4148,0,Skincare
+P457272,Abeille Royale Anti-Aging Eye Cream,3.7857,110.0,14.0,3420,0,Skincare
+P450934,Abeille Royale Day Cream,4.2857,170.0,14.0,2188,0,Skincare
+P450935,Abeille Royale Night Cream,3.6667,200.0,3.0,2226,0,Skincare
+P504985,Abeille Royale Bestsellers Travel Set,2.0,195.0,2.0,214,0,Skincare
+P481993,Abeille Royale Intense Repair Youth Oil in Balm,3.0,235.0,1.0,655,0,Skincare
+P500778,N°39 Facial Sunscreen Mist with SPF 39,4.708,30.0,137.0,5554,0,Skincare
+P500117,N°38 Facial Sunscreen Mist with SPF 38,4.3578,30.0,109.0,8924,0,Skincare
+P483458,Blades,3.6667,6.0,3.0,1586,0,Skincare
+P483460,Shower Holder,5.0,12.0,2.0,1932,0,Skincare
+P483661,Moon Fruit 1% Bakuchiol + Peptides Retinol Alternative Serum,4.5135,62.0,111.0,15482,0,Skincare
+P441045,Rose Quartz Gua Sha,3.8971,25.0,68.0,30982,0,Skincare
+P452004,Rose Hibiscus Hydrating Mist,4.0588,36.0,68.0,13225,0,Skincare
+P432662,Rose Quartz Facial Roller,3.0952,40.0,63.0,14116,0,Skincare
+P505316,Aquarius BHA + Blue Tansy Clarity Cleanser,5.0,26.0,15.0,518,0,Skincare
+P480607,Skin in the Clouds Set,4.1429,32.0,14.0,10728,0,Skincare
+P481334,Moon Fruit Retinol Alternative Sleep Mask,3.4167,54.0,12.0,5029,0,Skincare
+P480174,Waves of Clarity Skincare Set,4.5,32.0,6.0,5295,0,Skincare
+P504637,Equilibrium Resurfacing Retinoid Treatment,4.8898,110.0,118.0,278,0,Skincare
+P480608,Equilibrium Instant Plumping Eye Mask,4.4719,68.0,89.0,3935,0,Skincare
+P469831,Equilibrium Intensive Hydrating Eye Balm,4.5303,82.0,66.0,4836,0,Skincare
+P469832,Equilibrium Rebalancing Cream Cleanser,4.4,52.0,55.0,1812,1,Skincare
+P469833,Equilibrium Restoring Essence,4.7692,65.0,52.0,3526,0,Skincare
+P469830,Equilibrium Day Fluid Sunscreen Broad Spectrum SPF 30,4.0625,86.0,16.0,799,0,Skincare
+P476686,Equilibrium Restorative Hydrating Cream,5.0,94.0,3.0,876,0,Skincare
+P469801,Mini Equilibrium Rebalancing Cream Cleanser,5.0,25.0,1.0,1149,0,Skincare
+P469829,Equilibrium Biomimetic Skin Active Serum,5.0,198.0,1.0,482,1,Skincare
+P386755,Collagen Love Skin Firming Supplement with Hyaluronic Acid & Vitamin C,4.4074,40.0,135.0,17120,0,Skincare
+P468149,Calm Sweet Calm Stress Management Vegan Gummies with Ashwagandha & L-Theanine,4.2056,30.0,107.0,4531,0,Skincare
+P474839,Counter Cravings - Helps Reduce Cravings and Boosts Metabolism,4.4,50.0,90.0,5494,0,Skincare
+P474838,Boost Sweet Boost - Vegan Gummies for Immune Support,4.8636,26.0,88.0,1748,0,Skincare
+P482005,Fan Club - multi-symptom menopause support,4.8171,40.0,82.0,728,0,Skincare
+P386759,Moody Bird PMS Support Supplement,4.2222,26.0,81.0,9393,0,Skincare
+P500111,Womb Service - OBGYN Formulated Prenatal Support Supplement,4.8148,45.0,81.0,864,0,Skincare
+P388982,Big ChillAdaptogenStress Management Supplement,4.2609,25.0,69.0,14443,0,Skincare
+P386760,OMG! Omega The Great Fish Oil Supplement,4.3077,30.0,65.0,11224,0,Skincare
+P386764,Uber Energy Adrenal Fatigue and Adaptogen Supplement,3.5385,26.0,65.0,11104,0,Skincare
+P386757,Wing Man Liver Detox and Dark Circle Supplement,3.8254,26.0,63.0,14381,0,Skincare
+P386762,Here Comes The Sun Vitamin D Immune System Support Supplement,4.6444,12.0,45.0,14709,0,Skincare
+P408271,Turn Back Time Turmeric Supplement for UV Damage,4.0435,40.0,23.0,6956,0,Skincare
+P389097,Arctic Repair Fine Lines and Wrinkles Supplement,3.7778,60.0,18.0,4938,0,Skincare
+P500614,Gentle Brightening Gel Cleanser with Mandelic Acid,4.701,28.0,97.0,5176,0,Skincare
+P481710,Fade and Glow AHA Mask,4.4762,48.0,63.0,6857,0,Skincare
+P503216,Hyper Even Daily Duo Kit for Hyperpigmentation,4.6667,39.0,15.0,4569,0,Skincare
+P476515,Mini Brightening Dark Spot Vitamin C Serum,3.1429,36.0,14.0,7676,0,Skincare
+P500445,Prep Set Tan Tanning Mist with Hyaluronic Acid,4.2703,29.0,37.0,6187,1,Skincare
+P500412,Prep Set Tan Face and Body Brush,4.8214,25.0,28.0,5266,0,Skincare
+P395417,Touch Home Permanent Hair Removal Device,3.67,449.0,100.0,14204,0,Skincare
+P449102,Crystal Ball Roller Gloss,4.3839,12.0,112.0,14595,2,Skincare
+P469478,Party Recharge Hydrating Hyaluronic Under Eye Masks,3.6842,20.0,76.0,30543,0,Skincare
+P481712,Party Recharge Cryo Me Crazy Under-eye Masks,4.5556,20.0,18.0,10008,0,Skincare
+P458958,Hydrating Boob and Bum Sheet Mask Duo,4.0833,15.0,12.0,10245,0,Skincare
+P471041,Down to Tone Resurfacing Acid Toner,4.3607,28.0,122.0,9487,0,Skincare
+P471042,Next Level Moisturizer,4.4946,24.0,93.0,8788,0,Skincare
+P502322,The Healthy Skin Edit Bestsellers Kit,4.7849,36.0,93.0,5447,0,Skincare
+P471040,Foam Around Clarifying Daily Cleanser Infused with Glycolic Acid,4.3908,22.0,87.0,7064,0,Skincare
+P504892,Refine AHA + BHA Texture & Pore Serum,4.7895,38.0,57.0,790,0,Skincare
+P477413,GREEN MACHINE insta-glo resurfacing acid mask,4.6531,30.0,49.0,7419,0,Skincare
+P475112,Pore Clearing Matte Moisturizer with Volcanic Clusters,4.5392,24.0,102.0,11430,0,Skincare
+P468672,Clarifying Spot Serum with Bija Seed Oil,4.5347,18.0,101.0,3131,0,Skincare
+P482007,Dewy Glow Jam Cleanser with Jeju Cherry Blossom,4.3095,13.0,42.0,9095,0,Skincare
+P468671,Clarifying Cleansing Foam with Bija Seed Oil,4.2162,12.0,37.0,4981,0,Skincare
+P503928,Green Tea Hyaluronic Acid Face Cleanser,4.0385,12.0,26.0,7953,0,Skincare
+P503901,Hydration Heroes Green Tea Skincare Routine Set,3.7059,39.0,17.0,7004,0,Skincare
+P503890,Green Tea Hyaluronic Acid Hydrating Toner,4.5714,22.0,14.0,8957,0,Skincare
+P503942,Green Tea Hydrating Cleansing Oil,4.3077,24.0,13.0,6627,0,Skincare
+P503930,Green Tea Hyaluronic Acid Hydrating Eye Serum,3.8,22.0,10.0,6741,0,Skincare
+P503935,Volcanic Pore Clearing Facial Cleanser with AHA + BHA,4.4444,14.0,9.0,4123,0,Skincare
+P503894,Green Tea Hyaluronic Acid Hydrating Eye Cream,3.5,26.0,4.0,1784,0,Skincare
+P504840,Hydrate + Purify Mini Bestsellers Discovery Skincare Set,3.25,18.0,4.0,1592,0,Skincare
+P444614,Express Ultra Dark Mousse,3.7833,32.0,120.0,9912,0,Skincare
+P476540,Pro Glow Spray Tan Kit,4.0946,30.0,74.0,26141,0,Skincare
+P474957,Night Glow Self-Tan Face Mist,3.7606,24.0,71.0,11912,0,Skincare
+P474956,Day Dew Self-Tan Face Mist,4.1887,24.0,53.0,9157,0,Skincare
+P459140,Self-Tanning Water Refill,3.619,24.0,42.0,12579,2,Skincare
+P470533,Blending Brush,4.8056,24.0,36.0,17964,0,Skincare
+P433155,Prep It Self-Tan Priming Spray,4.0313,24.0,32.0,11103,0,Skincare
+P444990,Blend It Multi-Purpose Self-Tan Blender,2.3846,22.0,26.0,5294,0,Skincare
+P431419,Over It Magic Self-Tan Eraser,3.04,30.0,25.0,5750,0,Skincare
+P431418,Disco Tan Instant Wash-Off Body Bronzer,3.5,24.0,24.0,5272,0,Skincare
+P482009,Self-Tanning Mitt,3.4,10.0,5.0,4790,0,Skincare
+P455610,Confidence in a Neck Cream,3.5417,54.0,48.0,7661,0,Skincare
+P427641,Mini Confidence in a Cream Hydrating Moisturizer,3.6809,20.0,47.0,13406,0,Skincare
+P430143,Mini Confidence in a Cleanser,4.1667,15.0,12.0,2196,0,Skincare
+P480610,Hello Results Baby-Smooth Glycolic Peel + Caring Oil,4.5,59.0,6.0,2199,0,Skincare
+P474057,Lip Service - Lip Balm Duo Mint & Shea,4.8947,13.0,19.0,6167,0,Skincare
+P458573,Lip Balm Trio,4.7222,22.0,18.0,8564,0,Skincare
+P428414,Skin Saviors,4.5,37.0,14.0,8231,0,Skincare
+P472471,Acne Remedy Overnight Repair Moisturizer,4.1429,40.0,7.0,972,0,Skincare
+P432240,Oil-Control Toner,2.0,25.0,4.0,473,0,Skincare
+P476571,Turbo Body Lotion Energizing Gel Moisturizer with Eucalyptus & Aloe,5.0,38.0,1.0,326,0,Skincare
+P449156,Gold Sculpting Bar,4.4328,195.0,67.0,10451,0,Skincare
+P500002,Brighten. Tighten. Hydrate. 3-Piece Set,4.2782,64.0,133.0,3952,0,Skincare
+P500318,That Overnight Hustle AHA + BHA Resurfacer,4.4409,58.0,127.0,3724,0,Skincare
+P503123,Smooth Like Butter Kit,4.5,30.0,10.0,5990,0,Skincare
+P504277,Face Stone Nourishing Solid Refillable Facial Oil with Tamanu + Blue Tansy,4.6567,68.0,134.0,1182,1,Skincare
+P411881,Retinol Firming Eye Cream,3.4462,98.0,130.0,17127,0,Skincare
+P470535,"KateCeuticals Resurfacing Overnight Peel with Glycolic Acid, Retinol & Niacinamide",4.7377,98.0,122.0,6963,0,Skincare
+P436365,+Retinol Vita C Power Serum,3.5041,110.0,121.0,8879,0,Skincare
+P412117,Dry Skin Saver,4.3009,56.0,113.0,12883,0,Skincare
+P433468,EradiKate Salicylic Acid Acne Treatment,4.1143,68.0,105.0,8230,0,Skincare
+P469111,KateCeuticals Lifting Eye Cream,4.6354,140.0,96.0,3993,0,Skincare
+P471045,Daily Deflector Mineral Sunscreen SPF 40  PA++++,4.4149,54.0,94.0,2924,0,Skincare
+P469112,KateCeuticals Total Repair Cream,4.7143,140.0,91.0,2129,0,Skincare
+P421271,Wrinkle Warrior Eye Gel Visible Dark Circle Eraser,3.0667,76.0,90.0,4822,0,Skincare
+P502200,HydraKate Recharging Serum with Hyaluronic Acid,4.764,78.0,89.0,1808,0,Skincare
+P479701,EradiKate Acne Mark Fading Gel with Salicylic Acid,4.7011,68.0,87.0,4497,0,Skincare
+P382356,Age Arrest Anti-Wrinkle Cream,4.0349,98.0,86.0,6101,0,Skincare
+P502197,HydraKate Recharging Water Cream Moisturizer,4.8256,76.0,86.0,3226,0,Skincare
+P469110,KateCeuticals Firming Serum with Hyaluronic Acid,4.8765,110.0,81.0,2724,0,Skincare
+P479703,EradiKate Clarifying Acne Gel Cleanser with Salicylic Acid,4.6709,44.0,79.0,2655,0,Skincare
+P467028,Glow In A Wink ExfoliKate Bestsellers Set,4.9067,72.0,75.0,3372,0,Skincare
+P404232,DermalQuench +Retinol Advanced Resurfacing Treatment,4.0541,110.0,74.0,8412,0,Skincare
+P232920,Line Release Under Eye Repair Cream,3.9143,140.0,70.0,4556,0,Skincare
+P383308,Age Arrest Eye Cream,3.7451,98.0,51.0,4568,0,Skincare
+P460511,Mini Liquid ExfoliKate Triple Acid Resurfacing Treatment,4.1176,24.0,17.0,8596,0,Skincare
+P500124,EradiKate Try-Me-Kit,4.0,49.0,4.0,1311,0,Skincare
+P502195,DelIKate Try Me Kit,5.0,49.0,3.0,1959,0,Skincare
+P502186,Retinol Try Me Kit,3.0,59.0,2.0,628,0,Skincare
+P500155,ExfoliKate All Over Glow Kit,5.0,115.0,1.0,1243,0,Skincare
+P422003,Daily Reviving Concentrate,4.3986,59.0,138.0,26859,0,Skincare
+P429522,Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+,3.6048,68.0,124.0,18993,1,Skincare
+P422004,Ultra Facial Moisturizer Sunscreen SPF 30,3.7473,38.0,91.0,12320,0,Skincare
+P422005,Ultra Facial Moisturizer,3.7143,38.0,84.0,10346,0,Skincare
+P431733,Epidermal Re-Texturizing Micro-Dermabrasion,4.6173,46.0,81.0,17152,0,Skincare
+P461947,Calendula Petal-Infused Calming Mask with Aloe Vera,4.5111,47.0,45.0,10799,0,Skincare
+P436378,Dermatologist Solutions Centella Sensitive Cica-Cream,4.5152,46.0,33.0,6043,0,Skincare
+P422253,Rare Earth Pore Refining Tonic,3.5758,25.0,33.0,5263,0,Skincare
+P467628,Mini Clearly Corrective Dark Spot Correcting Serum,3.0455,35.0,22.0,10130,0,Skincare
+P422260,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,3.6,95.0,15.0,3510,1,Skincare
+P482021,Ultra Facial Hydrating Concentrated Cleansing Bar,4.3333,20.0,6.0,1558,0,Skincare
+P480176,Mini Calendula Deep Clean Foaming Face Wash,5.0,18.0,3.0,3514,0,Skincare
+P504464,Mask and Moisturize Duo Skincare Gift Set,5.0,30.0,1.0,1314,0,Skincare
+P440072,Noni Glow Overnight Plumping Hydration Mask,3.7283,52.0,92.0,12672,0,Skincare
+P432835,Rose Quartz Facial De-Puffing & Lifting Gua Sha,4.0714,63.0,28.0,10216,0,Skincare
+P456413,Mini Greek Yoghurt Foaming Cream Cleanser,4.2471,16.0,85.0,12738,0,Skincare
+P455919,MenoReverse Volumizing Serum-in-Moisturizer,4.0517,45.0,58.0,3897,0,Skincare
+P442734,Immortelle Reset Overnight Reset Oil-In Serum,4.5333,65.0,60.0,12040,0,Skincare
+P457273,Immortelle Overnight Reset Eye Serum,3.6,60.0,10.0,3415,0,Skincare
+P457274,Hand Cream Trio,4.1429,29.0,7.0,8278,0,Skincare
+P429637,The Moisturizing Cool Gel Cream,3.6788,200.0,137.0,8727,2,Skincare
+P416344,The Cleansing Foam,4.0,95.0,119.0,19070,1,Skincare
+P505160,The Moisturizing Soft Cream Moisturizer,4.5146,380.0,103.0,295,3,Skincare
+P417107,The Moisturizing Soft Lotion,4.0704,320.0,71.0,4580,0,Skincare
+P417118,The Broad Spectrum SPF 50 UV Protecting Fluid,4.2537,105.0,67.0,12975,0,Skincare
+P421249,The Moisturizing Matte Lotion,4.2258,320.0,62.0,4347,0,Skincare
+P444964,The Lip Volumizer,3.5536,85.0,56.0,19686,0,Skincare
+P417111,The Eye Balm Intense,3.5818,260.0,55.0,10037,0,Skincare
+P431416,The Replenishing Oil Exfoliator,4.6596,135.0,47.0,8653,0,Skincare
+P417243,The Tonic,4.1333,95.0,45.0,9567,0,Skincare
+P417114,The Cleansing Micellar Water,4.2,95.0,45.0,6735,1,Skincare
+P416538,The Lifting and Firming Mask,4.2857,300.0,42.0,15023,1,Skincare
+P417115,The Intensive Revitalizing Mask,4.4571,200.0,35.0,6256,0,Skincare
+P416725,The Revitalizing Hydrating Serum,4.0,255.0,29.0,8300,0,Skincare
+P433962,Treatment Lotion Hydrating Mask,4.2609,190.0,23.0,8179,0,Skincare
+P428636,Mini The Cleansing Foam,3.6087,25.0,23.0,8063,0,Skincare
+P428637,Mini The Lifting and Firming Mask,4.3636,95.0,22.0,7589,0,Skincare
+P461950,Mini The Concentrate Serum,4.4444,220.0,18.0,6441,0,Skincare
+P417110,The Lifting Eye Serum,3.3333,300.0,15.0,7599,0,Skincare
+P475961,Crème de La Mer Duet,4.4615,380.0,13.0,13729,0,Skincare
+P428639,Mini The Renewal Oil,4.3077,145.0,13.0,6304,0,Skincare
+P430405,Mini The Moisturizing Cool Gel Cream,4.3,100.0,10.0,3320,0,Skincare
+P501264,The Hydrating Treatment Lotion & Crème Set,3.0,200.0,2.0,3433,0,Skincare
+P474843,Absolue Soft Cream Revitalizing & Brightening Moisturizer,4.6763,150.0,139.0,5913,1,Skincare
+P474844,Absolue Revitalizing Eye Cream,4.6094,135.0,128.0,5509,0,Skincare
+P482025,Absolue Rich Cream Moisturizer,4.8031,270.0,127.0,1453,0,Skincare
+P430813,Advanced Génifique Hydrogel Melting Mask,4.0833,15.0,108.0,13528,0,Skincare
+P422428,Hydra Zen Anti-Stress Moisturizing Face Cream,4.2692,57.0,78.0,5273,0,Skincare
+P376135,Rénergie Lift Multi-Action Night Cream,4.3571,160.0,56.0,8299,0,Skincare
+P433461,Rose Sugar Scrub,3.8049,34.0,41.0,7764,0,Skincare
+P379009,Rénergie Lift Multi-Action Day Cream with SPF 15 - All Skin Types,3.8108,135.0,37.0,3448,0,Skincare
+P447607,Rose Milk Re-Hydrating Mist,3.5517,30.0,29.0,5507,0,Skincare
+P447608,Rose Sorbet Cryo-Mask,3.5185,45.0,27.0,3771,0,Skincare
+P454029,Rènergie Lift Multi-Action Ultra Double-Wrapping Cream Face Mask,4.7222,68.0,18.0,4838,0,Skincare
+P438362,Tonique Confort Hydrating & Toning Duo,4.6667,49.0,9.0,11331,0,Skincare
+P451737,Advanced Génifique Face & Eye Serum Set,3.875,130.0,8.0,10432,0,Skincare
+P505452,Clarifique Pro-Solution Brightening & Dark Spot Reducing Serum,4.4,85.0,5.0,23,0,Skincare
+P502823,Absolue The Serum,3.5,270.0,2.0,353,0,Skincare
+P482696,Water Bank Blue Hyaluronic Eye Cream,4.5385,43.0,130.0,16508,0,Skincare
+P484055,Water Bank Blue Hyaluronic Hydration Set,4.0192,45.0,52.0,40254,0,Skincare
+P459116,Mini Cream Skin Toner & Moisturizer,4.3077,15.0,52.0,17031,0,Skincare
+P504208,Midnight to Morning Hydration Set,4.2632,21.0,38.0,41957,0,Skincare
+P482694,Mini Water Bank Blue Hyaluronic Cream Moisturizer,3.5135,23.0,37.0,13024,0,Skincare
+P500982,Water Bank Cleansing Foam,3.9286,25.0,28.0,7317,0,Skincare
+P503868,BTS |  Amorepacific Lip Sleeping Mask Lip & Pop Edition Set,4.3636,35.0,22.0,23044,0,Skincare
+P482698,Water Bank Blue Hyaluronic Exfoliating Toner,4.4118,31.0,17.0,8064,0,Skincare
+P482697,Water Bank Blue Hyaluronic Revitalizing Toner,4.0,31.0,17.0,8013,0,Skincare
+P503934,Besties Set,3.6667,35.0,3.0,6757,0,Skincare
+P454771,Aglow Cleansing Butter,4.5349,14.0,86.0,4469,0,Skincare
+P455191,Mini Aglow Cleansing Butter,3.5882,14.0,17.0,6802,0,Skincare
+P505047,High Performance Face Serum with Vitamin C and Hyaluronic Acid,4.9268,195.0,41.0,254,0,Skincare
+P505140,Plumping High Performance Lip Filler with Hyaluronic Acid,4.7692,95.0,26.0,422,0,Skincare
+P505142,High Performance Eye Cream for Dark Circles with Hyaluronic Acid,4.8947,135.0,19.0,328,0,Skincare
+P505131,Moisturizing High Performance Face Cream with Peptides,4.9333,225.0,15.0,297,0,Skincare
+P505133,High Performance Face Cleanser for Clear Skin with Niacinamide,4.9231,85.0,13.0,204,0,Skincare
+P503991,Algae + Moringa Universal Hydrating Face Oil,4.9009,72.0,111.0,1595,1,Skincare
+P504026,Mini Algae + Moringa Universal Face Oil,4.9009,40.0,111.0,1333,0,Skincare
+P504016,Mini Evening Primrose + Green Tea Algae Retinol Face Oil,4.9487,66.0,78.0,1039,0,Skincare
+P504031,Evening Primrose + Green Tea Algae Retinol Face Oil,4.9487,120.0,78.0,940,1,Skincare
+P504059,Chlorella + Reishi Sea Vitamin C Sérum,4.9032,96.0,62.0,1554,0,Skincare
+P504199,Plankton + PHAFlower Acid Algae Serum,4.8846,74.0,52.0,1159,0,Skincare
+P504134,Sea Silk Lip Balm,4.4444,26.0,36.0,6580,1,Skincare
+P504023,Algae + Zinc Sea Kale Mineral Sunscreen Sérum SPF 30,4.5714,52.0,28.0,1323,0,Skincare
+P504040,Spirulina + Ashwagandha Volcanic Sea Clay Detox Masque,4.8519,54.0,27.0,1713,0,Skincare
+P440483,"Facial Spray with Aloe, Cucumber and Green Tea",3.9603,7.0,126.0,19617,1,Skincare
+P444967,"Mini Facial Spray with Aloe, Herbs and Rosewater",4.1138,5.0,123.0,32572,0,Skincare
+P440484,"Facial Spray with Aloe, Chamomile and Lavender",4.4396,7.0,91.0,16337,1,Skincare
+P440490,Acne Facial Cleanser,3.7625,15.0,80.0,13045,0,Skincare
+P440502,Hyaluronic Eye Cream,3.24,18.0,75.0,10678,0,Skincare
+P440486,Glycolic Acid Toner,4.1507,18.0,73.0,14598,0,Skincare
+P440485,Enzyme Cleansing Gel,3.75,14.0,72.0,6291,0,Skincare
+P444968,"Mini Facial Spray with Aloe, Cucumber and Green Tea",3.8382,5.0,68.0,16475,0,Skincare
+P440489,Glycolic Foaming Cleanser,4.129,16.0,62.0,8640,0,Skincare
+P440501,Seaweed Night Cream,3.8387,22.0,62.0,7833,0,Skincare
+P440494,Vitamin C Serum,4.0816,45.0,49.0,10060,0,Skincare
+P444969,"Mini Facial Spray with Aloe, Chamomile and Lavender",3.8511,5.0,47.0,11554,0,Skincare
+P440496,Buffering Lotion,3.9512,19.0,41.0,4679,0,Skincare
+P440491,Botanical Exfoliating Scrub,4.5405,26.0,37.0,6646,0,Skincare
+P440492,Buttermilk Moisturizer,3.9714,18.0,35.0,5546,0,Skincare
+P444615,Witch Hazel & Rosewater Toner,4.0882,14.0,34.0,12154,0,Skincare
+P440499,Silver Powder,4.3939,12.0,33.0,6384,0,Skincare
+P455909,Facial Spray with Aloe Sage & Orange Blossom,4.4375,7.0,32.0,6786,0,Skincare
+P440493,Oil Free Moisturizer Broad Spectrum SPF 30,3.6452,28.0,31.0,4935,0,Skincare
+P440500,Super Collagen Mask,4.0,18.0,21.0,9986,0,Skincare
+P460756,Hyaluronic Dew Cream,3.2,26.0,15.0,1647,0,Skincare
+P474964,"Facial Spray with Aloe Adaptogens, and Coconut Water",4.2857,9.0,14.0,3932,1,Skincare
+P479973,"Mini Facial Spray with Aloe Adaptogens, and Coconut Water",3.6,7.0,10.0,5440,0,Skincare
+P462378,Anti-Aging Regimen Kit,4.3,30.0,10.0,2962,0,Skincare
+P462381,Glycolic Eye Cream,4.1111,20.0,9.0,2932,0,Skincare
+P479974,Brightening Eye Serum,3.2857,24.0,7.0,2532,0,Skincare
+P462379,Witch Hazel & Lavender Toner,4.0,14.0,6.0,2138,0,Skincare
+P462375,Hyaluronic Dew Drops Hydrating Serum,3.5,30.0,6.0,2112,0,Skincare
+P462384,Spritz. Mist. Glow. Facial Spray Trio,3.0,21.0,5.0,5387,0,Skincare
+P468196,The Glow Up,2.5,49.0,4.0,2710,0,Skincare
+P462383,Flower & Tonic Clay Mask,4.5,18.0,4.0,2333,0,Skincare
+P460757,Brightening Mask with Vitamin C,3.5,22.0,4.0,2200,0,Skincare
+P462386,Drying Cream,3.75,17.0,4.0,1635,0,Skincare
+P471784,Gentle Foaming Cleanser,4.0,14.0,3.0,2867,0,Skincare
+P502709,Mini Mist Collection,4.5,20.0,2.0,2768,0,Skincare
+P500256,Mineral Sunscreen SPF 30,5.0,28.0,2.0,983,0,Skincare
+P423157,Sex Dust   Adaptogens For Fire*,3.8529,38.0,136.0,14485,0,Skincare
+P454090,Cosmic Cream Collagen Protecting Moisturizer,3.4667,58.0,75.0,4295,0,Skincare
+P457002,SuperBeauty Daily Antioxidant SkinSupplement,4.8696,60.0,69.0,6806,1,Skincare
+P477202,Ting Energy + Metabolism Non-Stim Supplement With Ginseng,4.5932,42.0,59.0,3042,0,Skincare
+P423159,Brain Dust,3.9608,38.0,51.0,6912,0,Skincare
+P454315,Milk Cleanse Gentle Foaming Cleanser,4.4043,32.0,47.0,2902,0,Skincare
+P503944,Mini Acid Potion AHA + BHA Resurfacing Exfoliator,3.5,15.0,4.0,4454,0,Skincare
+P469193,Supers Set,1.25,75.0,4.0,1614,0,Skincare
+P468390,Ashwagandha Organic Root Extract,5.0,38.0,3.0,2514,0,Skincare
+P470538,SuperPower Immune Support Supplement,5.0,38.0,1.0,820,0,Skincare
+P434340,De-Puffing Rose Quartz Facial Roller,4.0,40.0,75.0,18840,0,Skincare
+P440309,Amethyst Roller,4.3774,46.0,53.0,13390,0,Skincare
+P444470,De-Puffing Rose Quartz Eye Treatment Tool,4.7241,30.0,29.0,9940,0,Skincare
+P446639,Massaging Jade Textured Facial Roller,3.8276,36.0,29.0,5375,0,Skincare
+P467635,Jade Tension Melting Massager for Face & Neck,4.0909,72.0,22.0,6912,0,Skincare
+P447604,De-Puffing Jade Eye Treatment Tool,4.7368,30.0,19.0,8818,0,Skincare
+P377178,Rapid Collagen Infusion,4.128,89.0,125.0,10417,0,Skincare
+P429526,Multi-Vitamin Infusion Oil,4.4272,85.0,103.0,5518,0,Skincare
+P454514,"Youth Renewal Retinol Trial Kit for Smoother, Younger-Looking Skin",3.7879,59.0,33.0,17238,0,Skincare
+P467129,Acne Control 30-Day Trial Kit for Clearer Skin,3.5333,36.0,15.0,4471,0,Skincare
+P501003,Clarifying Water Gel Moisturizer with Hyaluronic Acid,3.0,49.0,8.0,1415,0,Skincare
+P479646,Mini City Skin Age Defense Broad Spectrum SPF 50 PA++++,4.3333,25.0,3.0,5567,0,Skincare
+P479696,Brighten Trial Kit,5.0,52.0,2.0,3779,0,Skincare
+P473148,Mask-imum Revival Hydra-Plumping Mask,4.381,27.0,126.0,978,0,Skincare
+P433975,Zero Baggage Anti-Dark Circle Eye Cream,4.2155,26.0,116.0,6994,0,Skincare
+P433974,Supercharge Anti-Oxidant Moisture Serum,4.5758,39.0,99.0,3597,0,Skincare
+P450587,Illumi-nation Anti-Fatigue Power Serum,4.6705,39.0,88.0,2843,0,Skincare
+P500160,Mineral Sun Defense Moisturizer Broad Spectrum SPF 30,4.3766,36.0,77.0,647,0,Skincare
+P478020,Lemon-Aid Makeup-Removing Cleansing Gel,4.5522,19.0,67.0,2017,0,Skincare
+P478021,Sleepover Retin-Oil Nighttime Treatment,4.7656,39.0,64.0,3771,0,Skincare
+P476894,NUDESKIN Lemon-Aid Detox & Glow Micro-Peel,4.4691,35.0,81.0,1215,0,Skincare
+P476893,NUDESKIN Citrus-C Mask & Daily Moisturizer,4.2603,39.0,73.0,653,0,Skincare
+P475143,NUDESKIN 3-Step: Citrus Renew Set For Makeup,3.7639,29.0,72.0,1520,0,Skincare
+P385320,Trinity + Eye and Lip Enhancer Attachment Bundle,3.4381,449.0,105.0,16672,0,Skincare
+P402992,Trinity + Eye and Lip Enhancer Attachment Bundle,3.4381,429.0,105.0,4122,0,Skincare
+P474968,NuFACE Hydrating Aqua Gel,4.3182,39.0,22.0,5336,1,Skincare
+P428005,NuBODY Skin Toning Device,4.25,399.0,20.0,6851,0,Skincare
+P474967,NuFACE Firming and Brightening Silk Crème,4.5625,69.0,16.0,2299,0,Skincare
+P383182,Wrinkle Reducer Trinity Attachment,2.7143,159.0,14.0,4948,0,Skincare
+P393600,Trinity Facial Toning Device + Wrinkle Reducer Attachment Bundle,3.5385,449.0,13.0,5875,0,Skincare
+P481138,FIX  Line Smoothing Device,2.0,159.0,12.0,2054,0,Skincare
+P402993,Trinity Facial Toning Device + Wrinkle Reducer Attachment Bundle,3.6667,429.0,9.0,2112,0,Skincare
+P500464,NuBODY - Body Toning Device,1.0,399.0,2.0,1312,0,Skincare
+P504221,Trinity+ Starter Kit,5.0,395.0,2.0,1085,0,Skincare
+P470240,Truth Serum Vitamin C Serum,4.1875,56.0,128.0,38002,0,Skincare
+P503878,Pout Preserve Peptide Lip Treatment,4.5727,22.0,110.0,20729,0,Skincare
+P459131,3 Mega Wonders,4.2346,65.0,81.0,22166,0,Skincare
+P471566,Mini Lemonade Smoothing Scrub,4.1923,18.0,52.0,13714,0,Skincare
+P472180,Balance It All Oil Control & Pore-Refining Set,3.6364,40.0,22.0,6808,0,Skincare
+P503572,Let's Get Luminous Brightening Essentials Set,3.4444,46.0,9.0,11164,0,Skincare
+P454800,Mini Glow2OH Dark Spot Toner,4.5,19.0,8.0,0,0,Skincare
+P503933,The Night Time Edit- Jenna Rennert X OLEHENRIKSEN,3.4,65.0,5.0,1927,0,Skincare
+P503876,OLE Glow Icons Skincare Set,3.75,62.0,4.0,1997,0,Skincare
+P394702,Plantscription Anti-Aging Power Eye Cream,3.8372,58.0,129.0,11304,0,Skincare
+P440933,Mini Clear Improvement Active Charcoal Mask to Clear Pore,3.9843,17.0,127.0,43176,0,Skincare
+P502046,GinZing Energizing Gel Cream with Caffeine & Niacinamide,4.5966,36.0,119.0,3509,0,Skincare
+P440929,Mini Original Skin Retexturizing Mask with Rose Clay,4.4762,17.0,105.0,29477,0,Skincare
+P440926,Mini Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,4.1143,17.0,105.0,26184,0,Skincare
+P377919,Plantscription Anti-Aging Cleanser,4.2871,36.0,101.0,8293,0,Skincare
+P471567,Checks and Balances Polishing Exfoliator,4.4624,27.0,93.0,7274,0,Skincare
+P401570,Mega-Mushroom Skin Relief Micellar Cleanser,4.5,37.0,86.0,11239,0,Skincare
+P408241,Plantscription Youth-Renewing Power Night Cream,4.5897,73.0,78.0,9952,0,Skincare
+P409834,Plantscription SPF 25 Power Anti-Aging Cream,4.254,73.0,63.0,10649,0,Skincare
+P409816,Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,4.4,73.0,45.0,6634,0,Skincare
+P470048,Bestsellers Recruitment Set,3.881,29.0,42.0,22451,0,Skincare
+P475590,MINI GINZING VITAMIN C EYE CREAM TO BRIGHTEN AND DEPUFF,3.45,29.0,40.0,18284,0,Skincare
+P442745,Plantscription Retinol Night Moisturizer,4.5385,73.0,39.0,11217,0,Skincare
+P443550,Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Hydra Burst Gel Lotion,4.0345,71.0,29.0,3001,0,Skincare
+P443549,Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Soothing Cream,4.2667,71.0,15.0,3524,0,Skincare
+P433446,Mini Original Skin Matte Moisturizer with Willowherb,4.0714,24.0,14.0,2661,0,Skincare
+P482058,Dr. Andrew Weil for Origins Mega-Mushroom Weightless Hydrating Moisturizer,4.1,40.0,10.0,2424,0,Skincare
+P474369,Clear Improvement Zero Oil Cleanser With Charcoal,3.5,27.0,8.0,1959,0,Skincare
+P473126,CLINICAL Discoloration Repair Serum,4.6522,52.0,138.0,18644,0,Skincare
+P469528,Skin Perfecting 25% AHA + 2% BHA Exfoliant Peel,4.5036,42.0,137.0,33137,0,Skincare
+P469524,RESIST Super-Light Daily Wrinkle Defense SPF 30,4.2556,37.0,133.0,19795,0,Skincare
+P469517,CLEAR Oil-Free Moisturizer,4.5281,29.0,89.0,16079,0,Skincare
+P469513,CLEAR Pore Normalizing Acne Cleanser,4.137,15.0,73.0,24652,0,Skincare
+P469515,CLEAR Daily Skin Clearing Treatment with 2.5% Benzoyl Peroxide,4.8333,22.0,66.0,13705,0,Skincare
+P481390,Omega+ Complex Moisturizer,4.3281,37.0,64.0,9568,0,Skincare
+P469527,The UnScrub Gentle Cleansing Scrub,4.5484,35.0,62.0,13473,0,Skincare
+P469516,CLEAR Ultra-Light Daily Hydrating Fluid SPF 30+,4.4915,37.0,59.0,11227,0,Skincare
+P469525,Omega+ Complex Serum,4.0545,42.0,55.0,18794,0,Skincare
+P469514,CLEAR Anti-Redness Exfoliating Solution with 2% Salicylic Acid,4.7091,34.0,55.0,13813,0,Skincare
+P474970,Hyaluronic Acid + Peptide Lip Treatment Booster,4.1538,32.0,52.0,9969,0,Skincare
+P469504,Skin Perfecting 8% AHA Gel Exfoliant,4.617,34.0,47.0,14565,0,Skincare
+P469508,Hyaluronic Acid Booster,4.413,39.0,46.0,7239,0,Skincare
+P469526,Water-Infusing Electrolyte Moisturizer,3.7273,37.0,44.0,8396,0,Skincare
+P469512,CLINICAL Ceramide-Enriched Firming Eye Cream,4.1163,49.0,43.0,8104,0,Skincare
+P469518,RESIST Barrier Repair Moisturizer with Retinol,4.3243,37.0,37.0,17313,0,Skincare
+P469521,RESIST Weightless Advanced Repairing Toner,3.8,26.0,25.0,11114,0,Skincare
+P469523,RESIST Anti-Aging Clear Skin Hydrator,3.4,37.0,25.0,4739,0,Skincare
+P481347,Clear Skin Kit Acne Treatment Kit,3.4375,75.0,16.0,3884,0,Skincare
+P481350,Complexion Clarity Kit,4.4444,64.0,9.0,15686,0,Skincare
+P502997,Salicylic Acid Acne Treatment Serum,3.6667,34.0,120.0,3297,0,Skincare
+P503683,Acne Salicylic Acid Day & Night Duo,4.7073,19.0,82.0,6248,0,Skincare
+P500856,Retinol Anti-Aging Power Duo,4.2222,48.0,18.0,3592,0,Skincare
+P410883,Acne Clearing Wash,4.2263,39.0,137.0,10371,0,Skincare
+P440317,Potent-C Vitamin C Bright & Plump Moisturizer,3.6239,72.0,109.0,5285,0,Skincare
+P471062,Full-Size Water Drench Hydra-Pair 2-Piece Kit,4.6,58.0,40.0,15019,0,Skincare
+P457519,Water Drench Hyaluronic Cloud Hydrating Eye Gel,3.4595,43.0,37.0,5917,0,Skincare
+P471064,Max Matte Shine Control Sunscreen Broad Spectrum SPF 45,2.4865,38.0,37.0,2240,0,Skincare
+P457520,FIRMx Collagen Moisturizer,3.3871,88.0,31.0,5148,0,Skincare
+P464799,Potent-C Power Brightening Hydra-Gels,2.6429,65.0,28.0,9815,0,Skincare
+P473185,Water Drench Hyaluronic Cloud Makeup Removing Gel Cleanser,4.0,32.0,14.0,2272,0,Skincare
+P474080,Water Drench Hyaluronic Cloud Mask Hydrating Gel,4.25,55.0,12.0,4791,0,Skincare
+P502740,Masking Minis 5-Piece Mask Kit,4.0,19.0,7.0,19378,0,Skincare
+P502725,Multi-Masker 4-Piece Mask Kit,4.0,58.0,5.0,7286,0,Skincare
+P501550,Acne-Clear Essentials 4-Piece Acne Kit,2.75,35.0,4.0,3080,0,Skincare
+P446630,Clean Pro Rose Quartz,4.4559,179.0,136.0,8990,0,Skincare
+P398502,Personal Microderm Pro,4.4355,199.0,124.0,24832,1,Skincare
+P401158,PMD Personal Microderm with Hand & Foot Kit,4.6494,159.0,77.0,10303,0,Skincare
+P446629,Clean Pro,4.2857,149.0,77.0,3044,0,Skincare
+P467969,Personal Microderm Elite Pro,4.6667,299.0,60.0,5350,0,Skincare
+P398500,Personal Microderm,4.322,159.0,59.0,12714,1,Skincare
+P467970,Clean Pro Obsidian,4.7069,179.0,58.0,3602,0,Skincare
+P476436,Clean Pro Jade,4.8205,179.0,39.0,4221,0,Skincare
+P504446,Restoring Moonseed Treatment - L’Immortale Empress,4.7222,125.0,54.0,1098,0,Skincare
+P481401,Hydrating Jasmine Mist - Royal Refresh,4.4571,45.0,35.0,3733,0,Skincare
+P481368,Detoxifying Facial Massage Tool - Kansa Wand,4.6364,70.0,22.0,1919,0,Skincare
+P476726,Evercalm Gentle Cleansing Gel,4.36,38.0,125.0,1293,0,Skincare
+P437477,Stop Being So Sensitive Evercalm Kit,3.6087,34.0,69.0,17141,0,Skincare
+P470049,Clearcalm Clarifying Clay Cleanser,4.6,38.0,40.0,4303,0,Skincare
+P455227,Glow One Step Further Radiance Kit,3.931,28.0,29.0,10949,0,Skincare
+P502047,Evercalm Skin Zen Trio,4.5,66.0,2.0,1448,0,Skincare
+P504594,The Brightening Essentials Skincare Gift Set,5.0,66.0,4.0,4044,0,Skincare
+P504283,Mini Solar Power Luminous SPF 30 Serum,3.0,18.0,4.0,1939,0,Skincare
+P468850,Signature Moisturizer,4.7,85.0,120.0,4096,0,Skincare
+P470245,Complexion Brightening Booster Serum,4.5,70.0,34.0,3223,0,Skincare
+P470247,Blemish Control Booster Serum,4.8182,70.0,33.0,2170,0,Skincare
+P470246,Calming Hydration Booster Serum,4.7143,70.0,21.0,2391,0,Skincare
+P470248,Retexturizing Retinol Booster Serum,4.5556,70.0,18.0,1842,0,Skincare
+P480346,SuperFruit Gentle Brightening Cleanser,4.7143,38.0,14.0,2610,1,Skincare
+P500502,SuperFruit Exfoliating Tonic 8% AHA Solution,4.8571,48.0,7.0,1826,0,Skincare
+P397465,Strawberry Lip Balm,4.1518,8.0,112.0,13002,0,Skincare
+P467972,The C Drops – 20% Vitamin C Blend Brightening Serum,4.75,90.0,100.0,5557,0,Skincare
+P473723,Hydrating Petal Cream – 1% Pure Hyaluronic Acid Moisturizer,4.5395,68.0,76.0,4072,0,Skincare
+P482068,Sacred Sleep Overnight Repair with Retinol,4.7544,70.0,57.0,3758,0,Skincare
+P501185,Luxury Lip Shine – Longwear Hydration Lip Oil with Vitamin C,4.6552,28.0,29.0,4219,0,Skincare
+P439672,Rose Quartz Facial Roller,3.7111,22.0,135.0,29366,0,Skincare
+P502986,Jade Facial Roller,4.8915,22.0,129.0,1060,0,Skincare
+P455212,1 Minute Face Masks,3.5124,12.0,121.0,23473,0,Skincare
+P460554,Clarifying Peel Pads,4.6068,17.0,117.0,11705,0,Skincare
+P469196,Supplement Case,3.7411,10.0,112.0,32124,0,Skincare
+P483146,Ultra Glow Toner with Vitamins C + E,4.5865,14.0,104.0,13488,0,Skincare
+P469086,Facial Cleansing Tool,4.73,8.0,100.0,21304,0,Skincare
+P432421,SUPERMASK - The Charcoal Mask,3.7614,5.5,88.0,16867,0,Skincare
+P444013,Crystal Facial Roller Set,4.1176,35.0,85.0,31468,0,Skincare
+P465808,4 Piece Facial Razor Set,3.44,12.0,75.0,34580,0,Skincare
+P461521,Clean Hand Mask,3.6818,5.0,66.0,16227,1,Skincare
+P455217,Gradual Self-Tanning Face Gel,3.8308,17.0,65.0,9757,0,Skincare
+P456957,Clarifying Serum,4.2222,20.0,63.0,10594,0,Skincare
+P473728,Reusable Cotton Pads,3.8246,10.0,57.0,20055,0,Skincare
+P467651,Pores Target Serum,4.1818,20.0,55.0,15027,0,Skincare
+P473724,Vitamin Tonic,4.6875,6.0,48.0,12475,0,Skincare
+P445726,Firming Night Cream with Peptides,4.0217,18.0,46.0,34044,0,Skincare
+P455215,Illuminating Hydrator - Radiance + Smoothing,3.3261,17.0,46.0,6763,0,Skincare
+P480986,Firming Eye Cream with Peptides,4.1364,18.0,44.0,15171,0,Skincare
+P482312,Facial Razor Set,4.4146,12.0,41.0,31987,0,Skincare
+P458733,Mini Rose Quartz Facial Roller,3.7,12.0,40.0,17556,0,Skincare
+P477714,Black Obsidian Face and Body Gua Sha,4.0,14.0,40.0,15323,0,Skincare
+P479688,AHA Peeling Masks,3.6923,10.0,39.0,10299,2,Skincare
+P469085,Face Mask Applicator,4.3684,10.0,38.0,32212,0,Skincare
+P461195,Clean Hemp Mask,3.8889,5.5,36.0,11589,0,Skincare
+P471085,Targeted Dark Spots Serum,3.6111,20.0,36.0,6752,0,Skincare
+P446820,Grapefruit Peeling Mask - Skin Perfection,3.4444,8.0,36.0,0,0,Skincare
+P483151,Vitamin Eye Masks,3.9118,3.5,34.0,26055,1,Skincare
+P457441,The Clarifying Kit,4.6667,20.0,33.0,9475,0,Skincare
+P467650,Self-Tanning Body Mousse,3.4839,18.0,31.0,3544,0,Skincare
+P483092,Glow Peel Pads with AHA + PHA,4.5862,17.0,29.0,14845,0,Skincare
+P457439,Clarifying Lotion,3.6207,16.0,29.0,5748,0,Skincare
+P471086,Targeted Wrinkle Serum,4.3571,20.0,28.0,5783,0,Skincare
+P461200,Clean Watermelon After Sun Mask,4.6667,5.0,27.0,9000,0,Skincare
+P446822,Hemp Mousse Mask - Anti-Blemish,3.5769,8.0,26.0,0,0,Skincare
+P483075,Brightening Dual Facial Enzyme Exfoliator,4.125,14.0,24.0,7792,0,Skincare
+P461199,Clean Peeling Mask,4.4545,5.5,22.0,7245,0,Skincare
+P469028,3-in-1 Extractor Tool,3.3,20.0,20.0,13252,0,Skincare
+P472067,Metal Facial Razor Refills,4.4,10.0,20.0,12554,0,Skincare
+P500774,Clarifying Toner with Niacinamide and Zinc,4.4444,14.0,18.0,9632,0,Skincare
+P460704,The Hydrating Kit,4.3333,20.0,18.0,8847,0,Skincare
+P464288,Sephora City Reusable Water Bottle,2.9412,8.0,17.0,6754,2,Skincare
+P483090,Firming Day Moisturizer with Peptides,2.9375,18.0,16.0,2887,0,Skincare
+P500743,Vitamin Face Masks,4.4,5.5,15.0,10162,3,Skincare
+P482314,Mattifying Blotting Papers,2.8667,4.0,15.0,6314,0,Skincare
+P472068,Reusable 3-Piece Grey Face Mask Set,4.0769,15.0,13.0,2624,0,Skincare
+P500785,Vitamin C Skincare Set,4.5833,15.0,12.0,11340,0,Skincare
+P482311,Large Supplement Case,4.0,15.0,11.0,7125,0,Skincare
+P504441,Prebiotic Smoothie Mask,4.0909,8.0,11.0,5029,1,Skincare
+P477734,Double-Ended Textured Facial Roller,3.6,24.0,10.0,11736,0,Skincare
+P444237,Mini Cleansing Wipes - Coconut Water,4.3,3.0,10.0,265,0,Skincare
+P504447,Gradual Tanning Drops Face & Body,3.25,16.0,8.0,2988,0,Skincare
+P502996,Rose Quartz Gua Sha,3.2857,14.0,7.0,7684,0,Skincare
+P479478,Germanium Stone Facial Massager,4.8571,28.0,7.0,5302,0,Skincare
+P482313,Eyebrow Razor Set,4.1429,8.0,7.0,3419,0,Skincare
+P467649,Clean 1 Minute Face Masks,1.8571,12.0,7.0,2950,1,Skincare
+P483145,Ultra Glow Mask with Vitamins C + E,4.5,16.0,6.0,4478,0,Skincare
+P500729,Best Sellers Set,4.3333,20.0,6.0,3742,0,Skincare
+P482309,Facial Cooling Wands,4.0,28.0,4.0,8525,0,Skincare
+P502842,Wishing You Essentials Skincare Kit,3.6667,20.0,3.0,6017,0,Skincare
+P500763,Lip Sleeping Mask,3.6667,5.0,3.0,1006,0,Skincare
+P474090,Deluxe Facial Roller Set,3.5,40.0,2.0,5602,0,Skincare
+P472058,Crystal Facial Roller Set,4.0,35.0,2.0,3924,0,Skincare
+P503000,Feeling Groovy Yellow Jade Eye Massager Set,5.0,18.0,2.0,2842,0,Skincare
+P504424,Clarifying Peel Pads Purify + Exfoliate,5.0,17.0,1.0,2254,0,Skincare
+P504417,Acne Treatment Gel,5.0,20.0,1.0,1039,0,Skincare
+P471097,Facial Sculpting Wand,4.5462,399.0,130.0,7753,0,Skincare
+P503920,Triple Acid Signature Peel,4.876,125.0,129.0,7097,0,Skincare
+P455931,Sake Toning Essence,4.4444,52.0,99.0,8073,0,Skincare
+P502216,Shani Darden by Déesse PRO LED Light Mask,3.75,1900.0,4.0,4154,0,Skincare
+P385262,Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,3.8175,40.0,137.0,17778,0,Skincare
+P433618,Clarifying Cleansing Foam,4.2455,36.0,110.0,12520,0,Skincare
+P378219,White Lucent Power Brightening Mask,4.2532,72.0,79.0,13301,0,Skincare
+P173622,Benefiance Pure Retinol Intensive Revitalizing Face Mask,4.45,70.0,60.0,11355,0,Skincare
+P482740,Mini Urban Environment Oil-Free Sunscreen Broad-Spectrum SPF 42,4.4348,35.0,46.0,6680,0,Skincare
+P433617,Deep Cleansing Foam,4.1957,36.0,46.0,6015,0,Skincare
+P423165,Future Solution LX Eye and Lip Contour Regenerating Cream,4.0833,155.0,36.0,6410,0,Skincare
+P202935,Benefiance NutriPerfect Night Cream,4.4722,97.0,36.0,5520,0,Skincare
+P428423,Refreshing Cleansing Sheets,4.1765,20.0,34.0,5363,0,Skincare
+P443375,White Lucent Brightening Gel Cream,3.4848,75.0,33.0,6154,0,Skincare
+P428422,Oil Control Blotting Paper,3.9697,20.0,33.0,4649,0,Skincare
+P433621,Treatment Softener Enriched,4.3077,50.0,26.0,5752,0,Skincare
+P423164,Future Solution LX Extra Rich Cleansing Foam,4.3043,65.0,23.0,5098,0,Skincare
+P455421,Complete Cleansing Microfoam,4.087,36.0,23.0,2716,0,Skincare
+P443376,White Lucent Overnight Cream & Mask,3.2727,110.0,22.0,3749,0,Skincare
+P433619,Extra Rich Cleansing Milk,4.2381,36.0,21.0,4643,0,Skincare
+P457854,Vital Perfection Uplifting and Firming Cream Day Cream,4.5263,140.0,19.0,2959,0,Skincare
+P423163,Future Solution LX Concentrated Balancing Softener,4.9375,110.0,16.0,4608,0,Skincare
+P443377,White Lucent Day Emulsion Broad Spectrum SPF 23,3.5,75.0,16.0,3128,0,Skincare
+P423169,Future Solution LX Total Regenerating Cream,3.75,290.0,12.0,2632,0,Skincare
+P433620,Treatment Softener,3.25,50.0,12.0,1957,0,Skincare
+P484076,Ultimate Sun Protector SPF 50+ Sunscreen Duo,4.4,66.0,10.0,7247,0,Skincare
+P463951,Mini Benefiance Wrinkle Smoothing Cream Enriched,3.7143,30.0,7.0,4039,0,Skincare
+P463106,Vital Perfection Uplifting and Firming Eye Cream,4.0,85.0,5.0,2649,0,Skincare
+P423166,Future Solution LX Intensive Firming Contour Serum,4.4,310.0,5.0,1898,0,Skincare
+P455229,White Lucent Illuminating Micro-Spot Serum,3.0,185.0,2.0,2501,0,Skincare
+P423167,Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen,5.0,270.0,2.0,1874,0,Skincare
+P423168,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen,4.0,270.0,2.0,636,0,Skincare
+P410756,GenOptics Aura Essence Serum,4.0758,245.0,132.0,16102,0,Skincare
+P410755,GenOptics Spot Essence Serum,4.1346,225.0,104.0,4899,0,Skincare
+P447773,PITERA First Experience Kit,3.9146,99.0,82.0,30424,0,Skincare
+P375864,Brightening Derm Revival Mask,4.4194,170.0,62.0,7740,0,Skincare
+P375854,Ultimate Revival Cream,4.4667,400.0,60.0,3031,0,Skincare
+P468412,Pitera Power Kit,4.0588,110.0,17.0,8972,0,Skincare
+P428103,Ultimate Revival Essence,4.5455,315.0,11.0,3863,0,Skincare
+P468410,SKINPOWER Essence Serum,4.0,205.0,6.0,1721,0,Skincare
+P416589,Wrinkle Release Facial Sheet Mask,4.5,12.0,8.0,2931,0,Skincare
+P416588,Wrinkle Release Neck & Chest Sheet Mask,3.25,15.0,4.0,2226,0,Skincare
+P446916,Eczema+ Care Kit,4.2,35.0,115.0,9573,0,Skincare
+P502169,Barrier+ Besties Hydrating and Nourishing Kit,4.7162,40.0,74.0,10557,0,Skincare
+P448562,Barrier+ Foaming Clay Cleanser,4.4493,32.0,69.0,9256,0,Skincare
+P442841,Barrier+ Lip Repair Balm,3.0462,15.0,65.0,10271,0,Skincare
+P502192,Acne Away Kit + Salicylic Acid + Azelaic Acid + Niacinamide,4.0,35.0,1.0,3945,0,Skincare
+P402943,Silk Pillowcase - King,3.8256,110.0,86.0,25496,6,Skincare
+P477761,Lovely Lashes Contour Sleep Mask,4.0,55.0,8.0,3771,0,Skincare
+P451748,15% Niacinamide Gel Serum,4.1591,75.0,132.0,1702,0,Skincare
+P451745,30% Glycolic Acid Peel Concentrate,4.125,46.0,24.0,3924,0,Skincare
+P451750,Oligo Peptide Eye Cream,4.5,65.0,6.0,1832,0,Skincare
+P477706,35% Vitamin C Fusion Serum,5.0,105.0,3.0,906,0,Skincare
+P504517,Brightening Eye Cream Mineral SPF 15 with Peptides,4.8667,68.0,15.0,1880,0,Skincare
+P504509,Hydra Lip Masque Mineral SPF 15 with Peptides,4.6667,26.0,12.0,1420,0,Skincare
+P504515,Daily Defense Moisturizer Mineral SPF 60 with Vitamin C,3.8,58.0,10.0,1375,0,Skincare
+P419466,Tan Build Up Remover Mitt,4.9492,9.0,59.0,10899,0,Skincare
+P442747,Self Tan Purity Water Gel,3.3103,44.0,58.0,1821,0,Skincare
+P456204,Purity Tanning Waters Mini Kit,3.2,25.0,30.0,8774,0,Skincare
+P456401,Self Tan Express Bronzing Gel,3.4783,46.0,23.0,2845,0,Skincare
+P456203,Self Tan Express Starter Kit,3.5263,20.0,19.0,5979,0,Skincare
+P482318,Gradual Tan Tinted Daily Firming Lotion,2.75,29.0,16.0,1397,0,Skincare
+P483691,Gradual Tan Classic Daily Youth Boosting Cream,5.0,29.0,1.0,1740,0,Skincare
+P474110,Super-C Retinol Brighten & Correct Vitamin C Serum,4.6491,72.0,114.0,11839,0,Skincare
+P474121,SD Advanced  PLUS Intensive Moisturizer For Wrinkles & Stretch Marks,4.6848,82.0,92.0,3783,0,Skincare
+P474109,Daily Reveal  Exfoliating Face Pads with AHA + BHA + PHA + TXA,4.75,45.0,64.0,7120,0,Skincare
+P474122,Advanced Retinol Nightly Renewal Face Moisturizer with Retinol,4.7813,119.0,64.0,4940,0,Skincare
+P474111,Super-C SPF 30 Vitamin C Face Moisturizer,4.6538,69.0,52.0,2182,0,Skincare
+P480191,Contour Restore Tightening & Sculpting Moisturizing Face Cream,4.7708,99.0,48.0,2824,0,Skincare
+P474116,Peptight  360˚ Tightening Eye Serum,4.4894,72.0,47.0,6166,0,Skincare
+P474115,Peptight  Tightening & Brightening Face Serum,4.8085,99.0,47.0,3033,0,Skincare
+P474107,Hyaluronic Tripeptide Gel-Cream for Eyes,4.6889,65.0,45.0,3261,0,Skincare
+P481743,Peptight Tightening Neck Serum Roller,4.7955,79.0,44.0,9271,0,Skincare
+P481742,Advanced Retinol Daily Repair Face Moisturizer Broad Spectrum SPF 30,4.7143,99.0,42.0,1162,0,Skincare
+P504050,Advanced Retinol Nightly Multi Correct Serum,4.7857,99.0,42.0,855,0,Skincare
+P474118,Intensive Eye Cream Concentrate for Wrinkles PLUS,4.425,72.0,40.0,5072,0,Skincare
+P502758,Super-C Dark Circle Brightening Eye Serum,4.55,65.0,40.0,1322,0,Skincare
+P474125,The Gamechangers,4.68,79.0,25.0,2820,0,Skincare
+P474114,Power Starters Tightening Trio,4.5263,89.0,19.0,3322,0,Skincare
+P505378,Multi Action Clear Acne Control 30-Day Trial Kit,4.875,39.0,8.0,43,0,Skincare
+P505381,Multi Action Clear Gentle Daily Brightening & Retexturizing Toner for Acne and Breakouts,5.0,39.0,3.0,23,0,Skincare
+P505392,Multi Action Clear Acne Clearing Treatment Lotion for Breakouts,5.0,49.0,1.0,13,0,Skincare
+P475172,Overnight Vitalizing Mask,4.717,54.0,106.0,12664,0,Skincare
+P481834,Concentrated Ginseng Renewing Cream Classic,4.8,260.0,60.0,1615,0,Skincare
+P463110,Clarifying Peel Off Mask,4.5,45.0,10.0,2963,0,Skincare
+P483694,Essential Comfort Balancing Water,5.0,68.0,4.0,3539,0,Skincare
+P463109,Overnight Vitalizing Sleeping Mask,3.25,54.0,4.0,259,0,Skincare
+P502448,Concentrated Ginseng Renewing Eye Cream,4.3333,140.0,3.0,3126,0,Skincare
+P483693,Essential Comfort Moisture Cream,5.0,80.0,3.0,2324,0,Skincare
+P501175,White Ginseng Radiance Refining Mask,5.0,68.0,1.0,1769,0,Skincare
+P483086,Essential Comfort Balancing Emulsion,4.0,72.0,1.0,923,0,Skincare
+P460627,Saturn Sulfur + Niacinamide Spot Treatment Mask,3.1515,20.0,99.0,8678,0,Skincare
+P463964,Pink Drink Firming Resurfacing Peptide Face Mist,3.8085,48.0,94.0,19808,0,Skincare
+P455235,Superstars Anti-Aging Serum and Eye Kit,4.16,130.0,25.0,19425,0,Skincare
+P461535,All About Acne Breakout + Blackhead Set,4.2,95.0,25.0,9837,0,Skincare
+P483495,Wake Up With Me Morning Routine Kit,4.0769,95.0,13.0,11638,0,Skincare
+P483494,Go To Bed With Me Anti-Aging Night Routine,4.0833,93.0,12.0,10461,0,Skincare
+P476733,Mineral Mattescreen Sunscreen SPF 40 PA+++,4.0153,38.0,131.0,22699,1,Skincare
+P505211,(Glow)Setting 100% Mineral Powder SPF 35,4.4758,36.0,124.0,2352,0,Skincare
+P454385,Mini PLAY Everyday Sunscreen Lotion SPF 30 PA++++,4.3333,34.0,57.0,9058,0,Skincare
+P482322,Mini Mineral Mattescreen Sunscreen SPF 40 PA+++,4.125,22.0,24.0,10079,0,Skincare
+P456407,PLAY Body Sunscreen Mousse SPF 50,3.9583,34.0,24.0,6119,0,Skincare
+P454391,PLAY Antioxidant Body Sunscreen Mist SPF 30 PA++++,3.3684,21.0,19.0,6277,0,Skincare
+P482746,PLAY 100% Mineral Lotion SPF 30 with Green Algae,4.0909,36.0,11.0,2927,0,Skincare
+P504320,SPF Bestsellers Kit,3.75,30.0,8.0,9331,0,Skincare
+P500782,100% Mineral SPF Starter Kit,1.8,29.0,5.0,4707,0,Skincare
+P500060,Play! Mineral SPF Stick,3.0,24.0,4.0,2951,0,Skincare
+P482747,PLAY Mineral Mist SPF 30 with Marigold Extract,2.5,34.0,2.0,1971,0,Skincare
+P505208,100% Mineral Sunscreen Starter Kit,5.0,30.0,1.0,1702,0,Skincare
+P447199,Super Glow Hyaluronic Self-Tan Serum,3.9845,49.0,129.0,13931,0,Skincare
+P424985,THE WATER Hydrating Self-Tan Water,4.0,48.0,90.0,14995,1,Skincare
+P424984,HYDRA MOUSSE Hydrating Self-Tan Mousse,4.0769,49.0,65.0,6083,1,Skincare
+P456989,Super Glow Body Hyaluronic Self-Tan Serum,3.6809,49.0,47.0,6917,0,Skincare
+P474376,Mini THE FACE Illuminating Self-Tan Drops,3.7632,25.0,38.0,13586,1,Skincare
+P433440,Wonder Oil Illuminating Self-Tan Oil,3.8182,69.0,33.0,4124,0,Skincare
+P424987,SLEEP OIL Rejuvenating Miracle Tanning Oil,3.5,52.0,24.0,4731,0,Skincare
+P470545,Super Gloss Instant Bronzing Face Drops with SPF 30,4.4286,49.0,21.0,5117,0,Skincare
+P481837,The Crème Gradual Self-Tanning Face Moisturizer,4.4444,49.0,18.0,4679,0,Skincare
+P442989,Youth or Dare Multi-Acid & C-Serum,3.1014,42.0,138.0,11296,0,Skincare
+P447200,Baba Bomb Moisturizer,4.4104,39.0,134.0,10945,1,Skincare
+P440306,SEA Mini Drink of H2O Hydrating Boost Moisturizer,3.5814,14.0,86.0,12223,0,Skincare
+P454376,knockout daily exfoliating cleanser,3.8983,12.0,59.0,5032,0,Skincare
+P449835,Mini Maracuja Oil,3.898,16.0,49.0,9396,0,Skincare
+P449836,Mini SEA Deep Dive Cleansing Gel,4.2889,12.0,45.0,7205,0,Skincare
+P447409,Mini Baba Bomb Moisturizer,4.1111,14.0,36.0,5514,0,Skincare
+P457468,Brazilliance 2HR Express Deep Foaming Self-Tanner,3.0417,39.0,24.0,2207,0,Skincare
+P454822,Mini SEA Mermaid Skin Hyaluronic H2O Serum,3.6667,15.0,21.0,7287,0,Skincare
+P454377,Mini knockout daily exfoliating cleanser,3.7895,12.0,19.0,4343,0,Skincare
+P449411,Mini Micellar Magic Makeup Remover & Cleanser,3.4286,9.0,14.0,3357,0,Skincare
+P456434,knockout brightening gel moisturizer,4.25,14.0,8.0,2400,1,Skincare
+P457279,Moisturizer Mini knockout brightening gel,4.6667,14.0,3.0,4857,0,Skincare
+P470548,Knockout 10% Acid Complex Serum,5.0,39.0,3.0,1445,0,Skincare
+P379709,Repairative Anti-Aging Moisturizer,3.4118,130.0,136.0,6030,0,Skincare
+P408301,Purifying Pore & Blackhead Detox Mask,3.845,75.0,129.0,18342,0,Skincare
+P392143,Tata's Daily Essentials Kit,3.65,75.0,120.0,22558,0,Skincare
+P392142,Nourishing Makeup Removing Oil Cleanser,4.0211,88.0,95.0,9393,0,Skincare
+P379705,Hydrating Hyaluronic Acid Floral Essence,3.883,76.0,94.0,13637,0,Skincare
+P412407,Clarifying Moisturizer,3.8519,130.0,81.0,6554,0,Skincare
+P379704,Retinoic Nutrient Face Oil With Vitamin A,4.2,165.0,75.0,11417,0,Skincare
+P472341,Superkind Fragrance-Free Fortifying Moisturizer,4.58,130.0,50.0,2480,0,Skincare
+P472343,Superkind Fragrance-Free Softening Cleanser,4.5417,88.0,48.0,4114,0,Skincare
+P476736,Superkind Fragrance-Free Bio-Barrier Serum,4.7273,146.0,44.0,2010,0,Skincare
+P442748,Hydrating Floral Mask,4.375,95.0,32.0,4076,0,Skincare
+P422848,Crème Riche Anti-Aging Peptide Night Cream,4.1429,230.0,21.0,2825,0,Skincare
+P449410,Boosted Contouring Retinol Eye Balm,3.4167,260.0,12.0,2191,0,Skincare
+P472342,Superkind Fragrance-Free Radiance Mask,4.75,68.0,4.0,4881,0,Skincare
+P500482,The Clean Dream Team Set,4.0,75.0,3.0,1395,0,Skincare
+P480354,Glow Facial Set,3.0,98.0,1.0,1476,0,Skincare
+P503877,Superkind Refining Cleanser,5.0,88.0,1.0,689,0,Skincare
+P504506,The Silk Serum Wrinkle-Smoothing Retinol Alternative,4.8387,98.0,124.0,2589,0,Skincare
+P399622,Luminous Deep Hydration Lifting Mask,4.4074,95.0,81.0,27298,0,Skincare
+P460746,Aburatorigami Japanese Blotting Papers,4.4074,14.0,54.0,16714,0,Skincare
+P504218,Dewy Cleanse + Hydrate Duo,4.5405,27.0,37.0,23678,0,Skincare
+P468229,Ageless Revitalizing Neck Cream,4.15,112.0,20.0,12625,0,Skincare
+P504327,Mini Favorites Set,4.4211,68.0,19.0,32077,0,Skincare
+P504203,Clarifying Cleanse + Hydrate Duo,3.25,27.0,12.0,9900,0,Skincare
+P501323,Overnight Recovery Duo,4.2,88.0,10.0,15655,0,Skincare
+P504303,Strengthening Nighttime Ritual Set,4.875,95.0,8.0,5528,0,Skincare
+P502365,Clarifying Cleanse + Hydrate Duo,3.5,27.0,6.0,16760,0,Skincare
+P454795,Mini The Dewy Skin Cream,4.0,22.0,6.0,0,0,Skincare
+P480355,The Essence Skincare Boosting Treatment – Lunar New Year Edition,5.0,110.0,2.0,5440,0,Skincare
+P448537,Alpha Arbutin Brightening Serum,4.2174,12.99,115.0,29698,0,Skincare
+P502749,SuperSolutions 5% Benzoyl Peroxide Cleanser Acne Solution,3.7722,17.99,79.0,6148,0,Skincare
+P502691,SuperSolutions 1% Retinol Serum,4.1558,24.99,77.0,13720,0,Skincare
+P474972,Symbright Brightening Moisturizer,3.3467,13.99,75.0,6523,0,Skincare
+P502741,SuperSolutions 10% Azelaic Serum Redness Relief Solution,3.863,17.99,73.0,7690,0,Skincare
+P502710,SuperSolutions 20% Niacinamide Serum,3.8971,17.99,68.0,5072,0,Skincare
+P502756,SuperSolutions 10% Urea Moisturizer Textured Skin Solution,4.1935,19.99,62.0,4253,0,Skincare
+P469544,C-50 Blemish Night Treatment,4.1724,15.99,58.0,28910,0,Skincare
+P505711,Polyglutamic Acid Dewy Sunscreen SPF 30,4.8654,14.99,52.0,164,0,Skincare
+P500775,Back to Basics: Hydration Heroes Skincare Set,3.75,27.0,4.0,6671,0,Skincare
+P480358,Mini Debloat+ Anti-Bloat Supplement with Digestive Enzymes,4.6,18.0,25.0,6299,0,Skincare
+P504049,Skin Filter Daily Brightening Phyto-Retinol + AHA Serum,5.0,65.0,12.0,400,0,Skincare
+P505209,Barrier Culture Moisturizer with Niacinamide & Squalane,5.0,65.0,7.0,48,0,Skincare
+P505210,"Barrier Culture Cleanser Pre-, Pro- & Postbiotic Face Wash",5.0,42.0,6.0,27,0,Skincare
+P482327,Mini Squalane Cleanser,3.9537,9.0,108.0,27760,0,Skincare
+P468709,100% Niacinamide Powder,4.3187,6.4,91.0,27717,0,Skincare
+P482328,Mini Natural Moisturizing Factors + HA,3.9213,6.5,89.0,38431,0,Skincare
+P447597,100% Organic Virgin Chia Seed Oil,4.1892,8.5,74.0,21125,0,Skincare
+P483496,Salicylic Acid 2% Exfoliating Blemish Solution,4.2535,6.5,71.0,43971,0,Skincare
+P455897,Ethylated Ascorbic Acid 15% Solution,4.0,20.0,42.0,20715,0,Skincare
+P479861,The Bright Set,4.0625,40.7,16.0,24451,0,Skincare
+P500139,The Skinimalist Set,4.5,22.0,10.0,23001,0,Skincare
+P505274,Glucoside Foaming Cleanser,4.3333,12.5,6.0,1580,0,Skincare
+P483700,Smoothing Vitamin C Eye + Expression Lines Cream,4.374,42.0,123.0,3752,0,Skincare
+P483698,Nourishing Squalane Daily Moisturizer,4.5893,44.0,112.0,4721,0,Skincare
+P483696,Gentle Micellar Antioxidant Cleanser,4.6937,32.0,111.0,3860,0,Skincare
+P483701,Daily Essentials Travel Set,4.5741,50.0,108.0,4435,0,Skincare
+P484081,Eye Recharge + Replenish Pro-Ferm Overnight Eye Cream with Bakuchiol and Peptides,4.5397,56.0,126.0,11155,0,Skincare
+P503652,24-7 Moisture Intense Ultra Hydrating Day & Night Cream with Hyaluronic Acid + Squalane,4.4182,58.0,110.0,1482,0,Skincare
+P475180,On The Go Best Sellers Travel Kit,4.2366,49.0,93.0,5711,0,Skincare
+P475188,Instant De-Puff Eye Renewal Serum,4.2105,58.0,76.0,4283,0,Skincare
+P501316,Beauty Sleep Overnight Repair Treatment Cream with AHA's and Vitamin C,4.0417,68.0,72.0,1817,0,Skincare
+P475189,Secret Solutions Pro-Glycolic 10% Resurfacing Toner,4.1343,46.0,67.0,2757,0,Skincare
+P482754,Mineral Magic Oil-Free Mineral Sunscreen Fluid Broad Spectrum SPF 30,4.3548,38.0,62.0,3802,0,Skincare
+P475197,Balancing Act Purifying & pH Balancing Biodegradable Toner Pads,4.0545,36.0,55.0,2470,0,Skincare
+P475184,Hello Radiance Illuminating Serum,4.2182,68.0,55.0,1327,0,Skincare
+P475195,Protect + Plump Firming & Hydrating Face Moisturizer,3.963,64.0,54.0,2230,0,Skincare
+P475192,So Poreless Deep Exfoliating Blackhead Scrub,3.9038,34.0,52.0,7262,0,Skincare
+P475183,So Polished Exfoliating Sugar Scrub,4.32,34.0,50.0,3585,0,Skincare
+P475204,Sensitive Skin Treatment Drops Calming Vitamin B Serum,4.1489,48.0,47.0,2137,0,Skincare
+P475193,Wrinkle Treatment Drops Retinol Alternative Serum,4.2979,68.0,47.0,2136,0,Skincare
+P475186,Revive + Rewind Revitalizing Eye Cream,4.2391,52.0,46.0,1921,0,Skincare
+P475196,So Smooth Resurfacing & Brightening Fruit Enzyme Mask,4.25,36.0,44.0,2603,0,Skincare
+P475200,Your Best Skin at Every Age Firming & Smoothing Discovery Kit,3.8293,66.0,41.0,2541,0,Skincare
+P475187,Firm Up Deep Wrinkle Serum,4.1579,84.0,38.0,1258,0,Skincare
+P482755,Claydate Detoxifying & Toning Face Mask Stick,4.3333,36.0,36.0,1460,0,Skincare
+P460010,Prep & Plane Facial Razors,2.7105,10.0,38.0,5661,0,Skincare
+P437960,Baggage Claim Rose Gold Eye Masks,4.0986,26.0,71.0,38772,0,Skincare
+P503635,Pack Up & Glow Priming Mineral SPF 40,4.25,36.0,4.0,1160,0,Skincare
+P501790,Pillowgasm Vitamin-Rich Cherry Glow Sleep Mask,4.4154,39.0,65.0,5771,0,Skincare
+P500428,Lift & Contour 1% Bakuchiol & Peptide Eye Serum,4.0,45.0,26.0,11916,0,Skincare
+P502771,Hydrate & Glow Trio,2.8333,29.0,6.0,6854,0,Skincare
+P502479,Kombucha + 10% AHA Liquid Exfoliant with Lactic Acid and Glycolic Acid,4.5926,42.0,81.0,11299,0,Skincare
+P473336,The Youth System,4.5526,59.0,76.0,53522,0,Skincare
+P504313,Peptides + C Energy Eye Concentrate with Vitamin C and Caffeine,4.8,48.0,45.0,3420,0,Skincare
+P501474,The Youth Vault: 13-Piece Vegan Skincare + Apparel Set,4.875,340.0,8.0,8989,0,Skincare
+P502998,"Youth Stacks: Plump It Up for Dry, Dehydrated Skin",4.1667,28.0,6.0,10406,0,Skincare
+P503872,Mini Mandelic Acid + Superfood Unity Exfoliant,4.8,16.0,5.0,6510,0,Skincare
+P502977,Youth Stacks: Daily Skin Health Your Way for Pores and Oiliness,4.25,20.0,4.0,13592,0,Skincare
+P502978,Youth Stacks: Brighter Tomorrow Duo for Dullness,3.0,28.0,3.0,8189,0,Skincare
