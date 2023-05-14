@@ -4,3 +4,4 @@ __pycache__
 product_reviews_extra.csv
 my_notes.md
 dwh.cfg
+etl_pipeline_data_warehouse_tests.ipynb
