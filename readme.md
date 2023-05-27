@@ -25,4 +25,4 @@ I am planning to implement the datawarehouse using star schema with a fact table
 
 ## Project Status
 - ETL pipeline and Data warehouse using Python and Postgresql - _**DONE**_
-- ETL pipeline and Data warehouse using AWS services - _**IN_PROGRESS**_
+- ETL pipeline and Data warehouse using AWS services - _**DONE**_
